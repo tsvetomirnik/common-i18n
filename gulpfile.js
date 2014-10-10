@@ -21,8 +21,10 @@ var paths = {
 
 gulp.task("minify-js", function () {
   gulp.src(paths.js + '/**/*.js') // path to your files
-    .pipe(uglify())
     .pipe(concat('i18n.js'))
+    .pipe(gulp.dest(paths.distJs))
+    .pipe(rename('i18n.min.js'))
+    .pipe(uglify())
     .pipe(gulp.dest(paths.distJs));
 });
 
