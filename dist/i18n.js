@@ -7,7 +7,11 @@ angular.module("risevision.common.i18n", ["pascalprecht.translate"])
     prefix: "components/rv-common-i18n/dist/locales/translation_",
     suffix: ".json"
   });
-  $translateProvider.determinePreferredLanguage();
+  
+  $translateProvider
+    .determinePreferredLanguage()
+    .fallbackLanguage("en");
+
   if($translateProvider.preferredLanguage().indexOf("en_") === 0){
     $translateProvider.preferredLanguage("en");
   }

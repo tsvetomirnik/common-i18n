@@ -1,0 +1,40 @@
+{
+  "common": {
+    "required-credentials": "Rise Vision needs access to your Google account to verify who you are",
+    "logging-in": "Logging in..."
+  },
+  "storage-client": {
+    "loading-files": "Requesting file list for {{username}}",
+    "requesting-file-list": "Requesting file list...",
+    "create-initial-folder": "Create initial storage folder",
+    "create-initial-folder-failed": "Could not create initial folder for {{email}}",
+    "confirm-deletion": "Please confirm PERMANENT deletion of",
+    "enter-folder-name": "Enter a folder name",
+    "not-authorized": "You are not authorized to view this Company's files",
+    "loading-functions": "Loading storage functions",
+  	"requesting-permission": "Requesting permission",
+  	"uploading": "Uploading {{filename}}",
+  	"upload-failed": "Upload did not complete",
+  	"verify-failed": "Could not verify",
+  	"verifying": "Verifying {{filename}}",
+  	"delete-folder": "folder: {{folder}} and all its contents",
+  	"delete-file": "file: {{file}}",
+  	"permission-refused": "Permission refused for {{email}}",
+    "upload-uri-request-failed": "Upload URI request failed",
+    "bandwidth-query-failed": "Bucket bandwidth query failed",
+    "unexpected-null-parameter": "Unexpected null parameter",
+    "cost-disclaimer": "There is currently no charge for the use of Storage, however at an as of yet to be determined date in the future, there will be a cost and at that time you will have 90 days to decide if you wish to continue using Storage or not."
+  },
+  "subscription-status": {
+  	"on-trial": "On Trial",
+  	"trial-available": "Trial Available",
+  	"trial-expired": "Trial Expired",
+  	"subscribed": "Subscribed",
+  	"suspended": "Suspended",
+  	"cancelled": "Cancelled",
+  	"free": "Free",
+  	"na": "N/A",
+    "expires-today": "Expiring Today",
+    "expires-in": "Expiring in {{days}} Days"
+  }
+}

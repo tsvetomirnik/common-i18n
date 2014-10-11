@@ -1,0 +1,43 @@
+{
+  "common": {
+    "contribute": "Contribute",
+    "select": "Select",
+    "cancel": "Cancel",
+    "create": "Create",
+    "delete": "Delete",
+    "lremove": "remove",
+    "ok": "Okay",
+    "file-name": "File Name",
+    "file-type": "Type",
+    "file-size": "File Size",
+    "file-date-mod": "Date Modified",
+    "folder": "Folder",
+    "previous-folder": "Previous Folder",
+    "jan": "Jan",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Apr",
+    "may": "May",
+    "jun": "Jun",
+    "jul": "Jul",
+    "aug": "Aug",
+    "sep": "Sep",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Dec"
+  },
+  "storage-client": {
+    "title": "Rise Vision Storage",
+    "header": "Storage",
+    "total-file-size": "Total file size",
+    "month-bandwidth": "This month's bandwidth use",
+    "upload-status": "Upload Status",
+    "permission-request": "Initiate Permission Request",
+    "lessThan1MB": "less than one MB"
+  },
+  "subscription-status": {
+    "heading": "Subscription Status",
+    "get-subscription": "Get a Subscription",
+    "continue-to-app": "Continue To App"
+  }
+}
