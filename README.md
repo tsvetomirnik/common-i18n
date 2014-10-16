@@ -42,6 +42,18 @@ The `dist` folder contains the minified version of the `src/locales` folder.
 
 An i18n.js file is provided, which contains an Angularjs module with the necessary dependencies on angular-translate and the static-files plugin. This module can be plugged-in as a dependency on the Angularjs application or component that needs translation of messages.
 
+In case you are using the provided i18n Angularjs module, you will need to include the following script reference in your main HTML page:
+
+```
+<script type="text/javascript" src="components/rv-common-i18n/dist/i18n.js"></script>
+```
+
+Your Angularjs module will need to have a reference to *risevision.common.i18n*:
+
+<code>
+angular.module("my-module", ["risevision.common.i18n"]);
+</code>
+
 ### Dependencies
 - Angularjs
 - Angular translate

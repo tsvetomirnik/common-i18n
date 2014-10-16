@@ -19,6 +19,26 @@ var paths = {
   distLocales: "./dist/locales"
 };
 
+function mergeProperties(source, dest) {
+  for(var key in source) {
+    if(typeof(source[key]) == "object") {
+      if(typeof(dest[key]) == "undefined") {
+        dest[key] = {};
+      }
+
+      mergeProperties(source[key], dest[key]);
+    }
+    else if(typeof(dest[key]) != "undefined") {
+      console.log("Property " + key + " is defined more than once");
+    }
+    else {
+      dest[key] = source[key];
+    }
+  }
+
+  return dest;
+}
+
 gulp.task("minify-js", function () {
   gulp.src(paths.js + '/**/*.js') // path to your files
     .pipe(concat('i18n.js'))
@@ -34,9 +54,7 @@ gulp.task("build-locales", folders(paths.locales, function(locale) {
           var dict = {};
 
           for(var file in data) {
-            for(var key in data[file]) {
-              dict[key] = data[file][key];
-            }
+            mergeProperties(data[file], dict);
           }
 
           return new Buffer(JSON.stringify(dict));
