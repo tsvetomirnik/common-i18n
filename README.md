@@ -42,17 +42,38 @@ The `dist` folder contains the minified version of the `src/locales` folder.
 
 An i18n.js file is provided, which contains an Angularjs module with the necessary dependencies on angular-translate and the static-files plugin. This module can be plugged-in as a dependency on the Angularjs application or component that needs translation of messages.
 
+### Using the provided i18n module
+
 In case you are using the provided i18n Angularjs module, you will need to include the following script reference in your main HTML page:
 
 ```
 <script type="text/javascript" src="components/rv-common-i18n/dist/i18n.js"></script>
 ```
 
+The next step is configuring the prefix and sufix paths for the translation files. Using environment specific config files is recommended. A local development environment would use:
+
+    angular.module("risevision.common.i18n.config", [])  
+      .constant("LOCALES_PREFIX", "components/rv-common-i18n/dist/locales/translation_")  
+      .constant("LOCALES_SUFIX", ".json");  
+
+While a production/staging environment would use:
+
+    angular.module("risevision.common.i18n.config", [])  
+      .constant("LOCALES_PREFIX", "locales/translation_")  
+      .constant("LOCALES_SUFIX", ".json");
+
+For environments other than local, it is necessary to copy the translation files to the proper location. An example using Gulp (usually a "build" task will depend on the "locales" task):
+
+    var localeFiles = [ "web/components/rv-common-i18n/dist/locales/**/*" ];  
+    
+    gulp.task("locales", ["clean"], function() {  
+      return gulp.src(localeFiles)  
+        .pipe(gulp.dest("dist/locales"));  
+    });
+
 Your Angularjs module will need to have a reference to *risevision.common.i18n*:
 
-<code>
-angular.module("my-module", ["risevision.common.i18n"]);
-</code>
+    angular.module("my-module", ["risevision.common.i18n"]);
 
 ### Dependencies
 - Angularjs
