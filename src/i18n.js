@@ -1,11 +1,11 @@
 "use strict";
 /* global angular */
 
-angular.module("risevision.common.i18n", ["pascalprecht.translate"])
-.config(["$translateProvider", function ($translateProvider) {
+angular.module("risevision.common.i18n", ["pascalprecht.translate", "risevision.common.i18n.config"])
+.config(["$translateProvider", "LOCALES_PREFIX", "LOCALES_SUFIX", function ($translateProvider, LOCALES_PREFIX, LOCALES_SUFIX) {
   $translateProvider.useStaticFilesLoader({
-    prefix: "components/rv-common-i18n/dist/locales/translation_",
-    suffix: ".json"
+    prefix: LOCALES_PREFIX,
+    suffix: LOCALES_SUFIX
   });
   
   $translateProvider
