@@ -21,6 +21,7 @@
   	"delete-file": "file: {{file}}",
   	"permission-refused": "Permission refused for {{email}}",
     "upload-uri-request-failed": "Upload URI request failed",
+    "upload-uri-request-failed-mail": "Upload URI request failed for {{mail}}",
     "bandwidth-query-failed": "Bucket bandwidth query failed",
     "unexpected-null-parameter": "Unexpected null parameter",
     "cost-disclaimer": "There is currently no charge for the use of Storage, however at an as of yet to be determined date in the future, there will be a cost and at that time you will have 90 days to decide if you wish to continue using Storage or not."
