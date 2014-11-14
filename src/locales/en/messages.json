@@ -28,7 +28,7 @@
   },
   "subscription-status": {
   	"on-trial": "On Trial",
-  	"trial-available": "Trial Available",
+  	"trial-available": "Free {{trialPeriod}} Day Trial Available",
   	"trial-expired": "Trial Expired",
   	"subscribed": "Subscribed",
   	"suspended": "Suspended",
@@ -36,6 +36,10 @@
   	"free": "Free",
   	"na": "N/A",
     "expires-today": "Expiring Today",
-    "expires-in": "Expiring in {{days}} Days"
+    "expires-in": "Expiring in {{days}} Days",
+    "not-subscribed": "Not Subscribed",
+    "product-not-found": "Invalid Product",
+    "company-not-found": "Company Not Found",
+    "error": "Error"
   }
 }
