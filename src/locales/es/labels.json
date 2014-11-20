@@ -1,11 +1,14 @@
 {
   "common": {
     "contribute": "Contribuir",
+    "save": "Guardar",
     "select": "Seleccionar",
     "cancel": "Cancelar",
     "create": "Crear",
     "delete": "Eliminar",
     "lremove": "eliminar",
+    "delete-forever": "Eliminar en forma permanente",
+    "close": "Cerrar",
     "ok": "Okay",
     "file-name": "Nombre de archivo",
     "file-type": "Tipo",
@@ -33,7 +36,11 @@
     "month-bandwidth": "Uso de ancho de banda del mes",
     "upload-status": "Estado de carga",
     "permission-request": "Iniciar solicitud de autorización",
-    "lessThan1MB": "menos de un MB"
+    "lessThan1MB": "menos de un MB",
+    "new-folder": "Nueva Carpeta",
+    "upload-file": "Subir Archivo",
+    "confirm-delete": "Eliminar",
+    "trash": "Papelera"
   },
   "subscription-status": {
     "heading": "Estado de la suscripción",
