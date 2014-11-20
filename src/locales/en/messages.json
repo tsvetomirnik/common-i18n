@@ -9,7 +9,6 @@
     "create-initial-folder": "Create initial storage folder",
     "create-initial-folder-failed": "Could not create initial folder for {{email}}",
     "confirm-deletion": "Please confirm PERMANENT deletion of",
-    "enter-folder-name": "Enter a folder name",
     "not-authorized": "You are not authorized to view this Company's files",
     "loading-functions": "Loading storage functions",
   	"requesting-permission": "Requesting permission",
@@ -24,7 +23,14 @@
     "upload-uri-request-failed-mail": "Upload URI request failed for {{mail}}",
     "bandwidth-query-failed": "Bucket bandwidth query failed",
     "unexpected-null-parameter": "Unexpected null parameter",
-    "cost-disclaimer": "There is currently no charge for the use of Storage, however at an as of yet to be determined date in the future, there will be a cost and at that time you will have 90 days to decide if you wish to continue using Storage or not."
+    "cost-disclaimer": "There is currently no charge for the use of Storage, however at an as of yet to be determined date in the future, there will be a cost and at that time you will have 90 days to decide if you wish to continue using Storage or not.",
+    "moved-to-trash": "Moved To Trash",
+    "restored-from-trash": "Restored From Trash",
+    "delete-files-folders-plural": "{{count}} files and folders are about to be permanently deleted and they cannot be recovered",
+    "delete-folders-singular": "One folder is about to be permanently deleted and it cannot be recovered",
+    "delete-folders-plural": "{{count}} folders are about to be permanently deleted and they cannot be recovered",
+    "delete-files-singular": "One file is about to be permanently deleted and it cannot be recovered",
+    "delete-files-plural": "{{count}} files are about to be permanently deleted and they cannot be recovered"
   },
   "subscription-status": {
   	"on-trial": "On Trial",
@@ -38,7 +44,7 @@
     "expires-today": "Expiring Today",
     "expires-in": "Expiring in {{days}} Days",
     "not-subscribed": "Not Subscribed",
-    "product-not-found": "Invalid Product",
+    "product-not-found": "Product Not Found",
     "company-not-found": "Company Not Found",
     "error": "Error"
   }

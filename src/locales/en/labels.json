@@ -1,11 +1,14 @@
 {
   "common": {
     "contribute": "Contribute",
+    "save": "Save",
     "select": "Select",
     "cancel": "Cancel",
     "create": "Create",
     "delete": "Delete",
     "lremove": "remove",
+    "delete-forever": "Delete Forever",
+    "close": "Close",
     "ok": "Okay",
     "file-name": "File Name",
     "file-type": "Type",
@@ -33,7 +36,11 @@
     "month-bandwidth": "This month's bandwidth use",
     "upload-status": "Upload Status",
     "permission-request": "Initiate Permission Request",
-    "lessThan1MB": "less than one MB"
+    "lessThan1MB": "less than one MB",
+    "new-folder": "New Folder",
+    "upload-file": "Upload File",
+    "confirm-delete": "Delete",
+    "trash": "Trash"
   },
   "subscription-status": {
     "heading": "Subscription Status",
