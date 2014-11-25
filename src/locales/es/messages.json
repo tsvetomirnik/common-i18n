@@ -26,11 +26,12 @@
     "cost-disclaimer": "Actualmente no hay cargos por el uso de Storage. Sin embargo, en una fecha aún no determinada en el futuro, existirá un costo y en ese momento tendrá 90 días para decidir si desea continuar usando el servicio de Storage o no.",
     "moved-to-trash": "Enviado a la Papelera",
     "restored-from-trash": "Restaurado de la Papelera",
-    "delete-files-folders-plural": "{{count}} archivos y carpetas están a punto de ser borrados permanentemente y no pueden ser recuperados",
-    "delete-folders-singular": "Una carpeta está a punto de ser borrada permanentemente y no puede ser recuperada",
-    "delete-folders-plural": "{{count}} carpetas están a punto de ser borradas permanentemente y no pueden ser recuperadas",
-    "delete-files-singular": "Un archivo está a punto de ser borrado permanentemente y no puede ser recuperado",
-    "delete-files-plural": "{{count}} archivos están a punto de ser borrados permanentemente y no pueden ser recuperados"
+    "delete-files-folders-plural": "{{count}} archivos y carpetas están a punto de ser borrados permanentemente y no pueden ser recuperados.",
+    "delete-folders-singular": "Una carpeta está a punto de ser borrada permanentemente y no puede ser recuperada.",
+    "delete-folders-plural": "{{count}} carpetas están a punto de ser borradas permanentemente y no pueden ser recuperadas.",
+    "delete-files-singular": "Un archivo está a punto de ser borrado permanentemente y no puede ser recuperado.",
+    "delete-files-plural": "{{count}} archivos están a punto de ser borrados permanentemente y no pueden ser recuperados.",
+    "selected-items": "{{count}} seleccionado(s)"
   },
   "subscription-status": {
   	"on-trial": "En Prueba",
