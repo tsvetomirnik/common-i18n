@@ -32,7 +32,14 @@
     "delete-files-singular": "One file is about to be permanently deleted and it cannot be recovered.",
     "delete-files-plural": "{{count}} files are about to be permanently deleted and they cannot be recovered.",
     "selected-items": "{{count}} Selected",
-    "duplicate-folder": "A Folder already uses that name, please choose a different one"
+    "duplicate-folder": "A Folder already uses that name, please choose a different one",
+    "pending-delete": "Deleting",
+    "pending-trash": "Moving To Trash",
+    "pending-restore": "Restoring",
+    "failed-delete": "Delete Failed",
+    "failed-trash": "Move To Trash Failed",
+    "failed-restore": "Restore Failed",
+    "pending-ops-leave-page": "Warning: There are operations pending."
   },
   "subscription-status": {
   	"on-trial": "On Trial",

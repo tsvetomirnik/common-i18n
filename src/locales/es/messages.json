@@ -31,7 +31,14 @@
     "delete-folders-plural": "{{count}} carpetas están a punto de ser borradas permanentemente y no pueden ser recuperadas.",
     "delete-files-singular": "Un archivo está a punto de ser borrado permanentemente y no puede ser recuperado.",
     "delete-files-plural": "{{count}} archivos están a punto de ser borrados permanentemente y no pueden ser recuperados.",
-    "selected-items": "{{count}} seleccionado(s)"
+    "selected-items": "{{count}} seleccionado(s)",
+    "pending-delete": "Eliminando",
+    "pending-trash": "Moviendo a la Papelera",
+    "pending-restore": "Restaurando",
+    "failed-delete": "Error al Eliminar",
+    "failed-trash": "Error al Mover a la Papelera",
+    "failed-restore": "Error al Restaurar",
+    "pending-ops-leave-page": "Atención: Existen operaciones pendientes."
   },
   "subscription-status": {
   	"on-trial": "En Prueba",
