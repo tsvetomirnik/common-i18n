@@ -31,7 +31,8 @@
     "delete-folders-plural": "{{count}} folders are about to be permanently deleted and they cannot be recovered.",
     "delete-files-singular": "One file is about to be permanently deleted and it cannot be recovered.",
     "delete-files-plural": "{{count}} files are about to be permanently deleted and they cannot be recovered.",
-    "selected-items": "{{count}} Selected"
+    "selected-items": "{{count}} Selected",
+    "duplicate-folder": "A Folder already uses that name, please choose a different one"
   },
   "subscription-status": {
   	"on-trial": "On Trial",
