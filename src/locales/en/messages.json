@@ -42,7 +42,10 @@
     "pending-ops-leave-page": "Warning: There are operations pending.",
     "inactive-subscription": "Subscription not active for {{email}}.",
     "upload-inactive-subscription": "Could not Upload. Subscription not active for {{email}}.",
-    "upload-verify-company": "Could not Upload. We're unable to authenticate you using the email account {{email}}."
+    "upload-verify-company": "Could not upload.  Unable to authenticate using the email account {{email}}.",
+    "trash-inactive-subscription": "Could not move to trash. Subscription not active for {{email}}",
+    "restore-inactive-subscription": "Could not restore from trash. Subscription not active for {{email}}",
+    "delete-inactive-subscription": "Could not delete. Subscription not active for {{email}}"
   },
   "subscription-status": {
   	"on-trial": "On Trial",

@@ -42,7 +42,10 @@
     "pending-ops-leave-page": "Atención: Existen operaciones pendientes.",
     "inactive-subscription": "Subscripción no activa para {{email}}.",
     "upload-inactive-subscription": "Error al Subir el archivo. Subscripción no activa para {{email}}.",
-    "upload-verify-company": "Error al Subir el archivo. No pudimos autenticarlo utilizando la cuenta de mail {{email}}."
+    "upload-verify-company": "Error al Subir el archivo. No pudimos autenticarlo utilizando la cuenta de mail {{email}}.",
+    "trash-inactive-subscription": "Error al Mover a la Papelera. Subscripción no activa para {{email}}",
+    "restore-inactive-subscription": "Error al Restaurar. Subscripción no activa para {{email}}",
+    "delete-inactive-subscription": "Error al Eliminar. Subscripción no activa para {{email}}"
   },
   "subscription-status": {
   	"on-trial": "En Prueba",
