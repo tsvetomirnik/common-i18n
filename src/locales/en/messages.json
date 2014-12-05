@@ -39,7 +39,10 @@
     "failed-delete": "Delete Failed",
     "failed-trash": "Move To Trash Failed",
     "failed-restore": "Restore Failed",
-    "pending-ops-leave-page": "Warning: There are operations pending."
+    "pending-ops-leave-page": "Warning: There are operations pending.",
+    "inactive-subscription": "Subscription not active for {{email}}.",
+    "upload-inactive-subscription": "Could not Upload. Subscription not active for {{email}}.",
+    "upload-verify-company": "Could not Upload. We're unable to authenticate you using the email account {{email}}."
   },
   "subscription-status": {
   	"on-trial": "On Trial",

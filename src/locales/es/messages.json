@@ -32,13 +32,17 @@
     "delete-files-singular": "Un archivo está a punto de ser borrado permanentemente y no puede ser recuperado.",
     "delete-files-plural": "{{count}} archivos están a punto de ser borrados permanentemente y no pueden ser recuperados.",
     "selected-items": "{{count}} seleccionado(s)",
+    "duplicate-folder": "Ya existe una carpeta con ese nombre. Por favor, elija uno diferente.",
     "pending-delete": "Eliminando",
     "pending-trash": "Moviendo a la Papelera",
     "pending-restore": "Restaurando",
     "failed-delete": "Error al Eliminar",
     "failed-trash": "Error al Mover a la Papelera",
     "failed-restore": "Error al Restaurar",
-    "pending-ops-leave-page": "Atención: Existen operaciones pendientes."
+    "pending-ops-leave-page": "Atención: Existen operaciones pendientes.",
+    "inactive-subscription": "Subscripción no activa para {{email}}.",
+    "upload-inactive-subscription": "Error al Subir el archivo. Subscripción no activa para {{email}}.",
+    "upload-verify-company": "Error al Subir el archivo. No pudimos autenticarlo utilizando la cuenta de mail {{email}}."
   },
   "subscription-status": {
   	"on-trial": "En Prueba",
