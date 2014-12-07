@@ -20,7 +20,7 @@
   	"delete-file": "archivo: {{file}}",
   	"permission-refused": "Permiso denegado para {{email}}",
     "upload-uri-request-failed": "La solicitud de URI de carga ha fallado",
-    "upload-uri-request-failed-mail": "La solicitud de URI de carga ha fallado para {{mail}}",
+    "upload-uri-request-failed-mail": "La solicitud de URI de carga ha fallado para {{email}}",
     "bandwidth-query-failed": "La consulta de uso de ancho de banda ha fallado",
     "unexpected-null-parameter": "Parámetro nulo inesperado",
     "cost-disclaimer": "Actualmente no hay cargos por el uso de Storage. Sin embargo, en una fecha aún no determinada en el futuro, existirá un costo y en ese momento tendrá 90 días para decidir si desea continuar usando el servicio de Storage o no.",
