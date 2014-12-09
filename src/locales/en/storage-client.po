@@ -1,3 +1,6 @@
+msgid "access-denied"
+msgstr "You don't have access to that action. Please contact your Administrator to give you the access you need."
+
 msgid "bandwidth-query-failed"
 msgstr "Bucket bandwidth query failed"
 
@@ -123,6 +126,9 @@ msgstr "Restored From Trash"
 
 msgid "selected-items"
 msgstr "{{count}} Selected"
+
+msgid "server-error"
+msgstr "There was a problem with the request. Report to support with this error code: "
 
 msgid "signed-download-uri-request-failed"
 msgstr "Download request failed for {{email}}"

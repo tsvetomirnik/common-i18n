@@ -65,7 +65,8 @@
     "new-folder": "New Folder",
     "upload-file": "Upload File",
     "confirm-delete": "Delete",
-    "trash": "Trash"
+    "trash": "Trash",
+    "tagging": "Tagging"
   },
   "subscription-status": {
     "heading": "Subscription Status",
