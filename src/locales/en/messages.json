@@ -20,7 +20,7 @@
   	"delete-file": "file: {{file}}",
   	"permission-refused": "Permission refused for {{email}}",
     "upload-uri-request-failed": "Upload URI request failed",
-    "upload-uri-request-failed-mail": "Upload URI request failed for {{mail}}",
+    "upload-uri-request-failed-mail": "Upload URI request failed for {{email}}",
     "bandwidth-query-failed": "Bucket bandwidth query failed",
     "unexpected-null-parameter": "Unexpected null parameter",
     "cost-disclaimer": "There is currently no charge for the use of Storage, however at an as of yet to be determined date in the future, there will be a cost and at that time you will have 90 days to decide if you wish to continue using Storage or not.",
@@ -39,7 +39,10 @@
     "failed-delete": "Delete Failed",
     "failed-trash": "Move To Trash Failed",
     "failed-restore": "Restore Failed",
-    "pending-ops-leave-page": "Warning: There are operations pending."
+    "pending-ops-leave-page": "Warning: There are operations pending.",
+    "inactive-subscription": "Subscription not active for {{email}}.",
+    "upload-inactive-subscription": "Could not Upload. Subscription not active for {{email}}.",
+    "upload-verify-company": "Could not Upload. We're unable to authenticate you using the email account {{email}}."
   },
   "subscription-status": {
   	"on-trial": "On Trial",
