@@ -21,6 +21,7 @@
   	"permission-refused": "Permiso denegado para {{email}}",
     "upload-uri-request-failed": "La solicitud de URI de carga ha fallado",
     "upload-uri-request-failed-mail": "La solicitud de URI de carga ha fallado para {{email}}",
+    "signed-download-uri-request-failed": "La descarga ha fallado para {{email}}",
     "bandwidth-query-failed": "La consulta de uso de ancho de banda ha fallado",
     "unexpected-null-parameter": "Parámetro nulo inesperado",
     "cost-disclaimer": "Actualmente no hay cargos por el uso de Storage. Sin embargo, en una fecha aún no determinada en el futuro, existirá un costo y en ese momento tendrá 90 días para decidir si desea continuar usando el servicio de Storage o no.",
@@ -45,7 +46,9 @@
     "upload-verify-company": "Error al Subir el archivo. No pudimos autenticarlo utilizando la cuenta de mail {{email}}.",
     "trash-inactive-subscription": "Error al Mover a la Papelera. Subscripción no activa para {{email}}",
     "restore-inactive-subscription": "Error al Restaurar. Subscripción no activa para {{email}}",
-    "delete-inactive-subscription": "Error al Eliminar. Subscripción no activa para {{email}}"
+    "delete-inactive-subscription": "Error al Eliminar. Subscripción no activa para {{email}}",
+    "signed-url-inactive-subscription": "Error al Descargar el archivo. Subscripción no activa para {{email}}.",
+    "signed-url-verify-company": "Error al Descargar el archivo. No pudimos autenticarlo utilizando la cuenta de mail {{email}}."
   },
   "subscription-status": {
   	"on-trial": "En Prueba",
