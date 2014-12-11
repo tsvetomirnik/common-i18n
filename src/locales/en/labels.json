@@ -36,6 +36,7 @@
     "total-file-size": "Total file size",
     "month-bandwidth": "This month's bandwidth use",
     "upload-status": "Upload Status",
+    "download-status": "Download Status",
     "permission-request": "Initiate Permission Request",
     "lessThan1MB": "less than one MB",
     "new-folder": "New Folder",

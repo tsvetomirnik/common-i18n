@@ -35,6 +35,7 @@
     "total-file-size": "Tamaño total",
     "month-bandwidth": "Uso de ancho de banda del mes",
     "upload-status": "Estado de carga",
+    "download-status": "Estado de descarga",
     "permission-request": "Iniciar solicitud de autorización",
     "lessThan1MB": "menos de un MB",
     "new-folder": "Nueva Carpeta",
