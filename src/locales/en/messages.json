@@ -51,19 +51,24 @@
     "signed-url-verify-company": "Could not Download. We're unable to authenticate you using the email account {{email}}."
   },
   "subscription-status": {
-  	"on-trial": "On Trial",
-  	"trial-available": "Free {{trialPeriod}} Day Trial Available",
-  	"trial-expired": "Trial Expired",
-  	"subscribed": "Subscribed",
-  	"suspended": "Suspended",
-  	"cancelled": "Cancelled",
-  	"free": "Free",
-  	"na": "N/A",
+    "on-trial-zero": "<strong>{{expiry}} days</strong> left on trial",
+    "on-trial": "<strong>{{expiry}} day</strong> left on trial",
+    "on-trial-many": "<strong>{{expiry}} days</strong> left on trial",
+    "trial-available": "Free {{trialPeriod}} Day Trial Available",
+    "trial-expired": "Trial Expired",
+    "subscribed": "Subscribed",
+    "suspended": "Subscription Suspended",
+    "cancelled": "Subscription Cancelled",
+    "free": "Free",
+    "na": "N/A",
     "expires-today": "Expiring Today",
     "expires-in": "Expiring in {{days}} Days",
     "not-subscribed": "Not Subscribed",
     "product-not-found": "Product Not Found",
     "company-not-found": "Company Not Found",
-    "error": "Error"
+    "error": "Error",
+    "start-trial": "Start Trial",
+    "subscribe": "Subscribe",
+    "view-account": "View Account"
   }
 }

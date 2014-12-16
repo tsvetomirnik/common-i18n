@@ -51,19 +51,24 @@
     "signed-url-verify-company": "Error al Descargar el archivo. No pudimos autenticarlo utilizando la cuenta de mail {{email}}."
   },
   "subscription-status": {
-  	"on-trial": "En Prueba",
-  	"trial-available": "Prueba Gratuita de {{trialPeriod}} Días Disponible",
-  	"trial-expired": "Prueba Expirada",
-  	"subscribed": "Suscripto",
-  	"suspended": "Suspendido",
-  	"cancelled": "Cancelado",
-  	"free": "Gratis",
-  	"na": "N/D",
+    "on-trial-zero": "<strong>{{expiry}} días</strong> de Prueba",
+    "on-trial": "<strong>{{expiry}} día</strong> de Prueba",
+    "on-trial-many": "<strong>{{expiry}} días</strong> de Prueba",
+    "trial-available": "Prueba Gratuita de {{trialPeriod}} Días Disponible",
+    "trial-expired": "Prueba Expirada",
+    "subscribed": "Suscripto",
+    "suspended": "Suscripción Suspendida",
+    "cancelled": "Suscripción Cancelada",
+    "free": "Gratis",
+    "na": "N/D",
     "expires-today": "Expirando Hoy",
     "expires-in": "Expirando en {{days}} Días",
     "not-subscribed": "No Suscripto",
     "product-not-found": "Producto No Encontrado",
     "company-not-found": "Compañía No Encontrada",
-    "error": "Error"
+    "error": "Error",
+    "start-trial": "Iniciar Prueba",
+    "subscribe": "Suscribir",
+    "view-account": "Ver Cuenta"
   }
 }
