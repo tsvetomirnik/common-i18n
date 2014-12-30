@@ -1,5 +1,6 @@
 {
   "common": {
+    "apply": "Apply",
     "contribute": "Contribute",
     "save": "Save",
     "saving": "Saving",
@@ -7,6 +8,7 @@
     "cancel": "Cancel",
     "create": "Create",
     "delete": "Delete",
+    "help": "Help",
     "lremove": "remove",
     "delete-forever": "Delete Forever",
     "close": "Close",
@@ -28,7 +30,17 @@
     "sep": "Sep",
     "oct": "Oct",
     "nov": "Nov",
-    "dec": "Dec"
+    "dec": "Dec",
+    "font-variants": {
+      "label": "Font Variants",
+      "bold": "Bold",
+      "italic": "Italic"
+    },
+    "units": {
+      "pixels": "px",
+      "seconds": "sec",
+      "minutes": "min"
+    }
   },
   "storage-client": {
     "title": "Rise Vision Storage",
