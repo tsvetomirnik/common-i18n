@@ -1,0 +1,29 @@
+{
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "help": "Aide",
+    "monday": "Lundi",
+    "tuesday": "Mardi",
+    "wednesday": "Mercredi",
+    "thursday": "Jeudi",
+    "friday": "Vendredi",
+    "saturday": "Samedi",
+    "sunday": "Dimanche",
+    "units": {
+      "mph": "mph",
+      "kph": "km/h",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit"
+    }
+  },
+  "widgets": {
+    "font": "Police",
+    "layout": {
+      "heading": "Disposition",
+      "custom": "Personnalisé",
+      "url": "URL de la disposition",
+      "error": "Please enter a Layout URL"
+    }
+  }
+}

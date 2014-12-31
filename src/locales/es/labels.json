@@ -6,6 +6,7 @@
     "cancel": "Cancelar",
     "create": "Crear",
     "delete": "Eliminar",
+    "help": "Ayuda",
     "lremove": "eliminar",
     "delete-forever": "Eliminar en forma permanente",
     "close": "Cerrar",
@@ -27,7 +28,20 @@
     "sep": "Sep",
     "oct": "Oct",
     "nov": "Nov",
-    "dec": "Dic"
+    "dec": "Dic",
+    "monday": "lunes",
+    "tuesday": "martes",
+    "wednesday": "miércoles",
+    "thursday": "jueves",
+    "friday": "viernes",
+    "saturday": "sábado",
+    "sunday": "domingo",
+    "units": {
+      "mph": "mph",
+      "kph": "kph",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit"
+    }
   },
   "storage-client": {
     "title": "Rise Vision Storage",
@@ -47,5 +61,14 @@
     "heading": "Estado de la suscripción",
     "get-subscription": "Obtener una suscripción",
     "continue-to-app": "Continuar a la aplicación"
+  },
+  "widgets": {
+    "font": "Tipo de Letra",
+    "layout": {
+      "heading": "Diseño",
+      "custom": "Personalizar",
+      "url": "Diseño URL",
+      "error": "Please enter a Layout URL"
+    }
   }
 }

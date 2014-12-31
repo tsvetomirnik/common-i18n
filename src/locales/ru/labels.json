@@ -1,0 +1,29 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "help": "Help",
+    "monday": "понедельник",
+    "tuesday": "вторник",
+    "wednesday": "среда",
+    "thursday": "четверг",
+    "friday": "пятница",
+    "saturday": "суббота",
+    "sunday": "воскресенье",
+    "units": {
+      "mph": "миль/час",
+      "kph": "км/ч",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit"
+    }
+  },
+  "widgets": {
+    "font": "Font",
+    "layout": {
+      "heading": "Layout",
+      "custom": "Custom",
+      "url": "Layout URL",
+      "error": "Please enter a Layout URL"
+    }
+  }
+}

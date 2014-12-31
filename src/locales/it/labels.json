@@ -1,0 +1,29 @@
+{
+  "common": {
+    "save": "Salva",
+    "cancel": "Annulla",
+    "help": "Aiuto",
+    "monday": "Lunedì",
+    "tuesday": "Martedì",
+    "wednesday": "Mercoledì",
+    "thursday": "Giovedì",
+    "friday": "Venerdì",
+    "saturday": "Sabato",
+    "sunday": "Domenica",
+    "units": {
+      "mph": "mph",
+      "kph": "kph",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit"
+    }
+  },
+  "widgets": {
+    "font": "Carattere",
+    "layout": {
+      "heading": "Disposizione",
+      "custom": "Personale",
+      "url": "URL Disposizione",
+      "error": "Please enter a Layout URL"
+    }
+  }
+}

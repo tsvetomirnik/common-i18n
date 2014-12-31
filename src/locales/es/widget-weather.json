@@ -1,0 +1,82 @@
+{
+  "weather": {
+    "settings": "Configuración de Tiempo",
+    "layout": {
+      "current": "Tiempo Actual",
+      "three-day": "Pronóstico de 3 días",
+      "current-and-three-day": "Tiempo Actual y Pronóstico de 3 Días"
+    },
+    "current-temp": {
+      "font": {
+        "label": "Temperatura Actual - Tipo de Letra",
+        "text": "Tiempo Actual - Ejemplo de Texto"
+      }
+    },
+    "forecast-temp": {
+      "font": {
+        "label": "Pronóstico de Temperatura - Tipo de Letra",
+        "text": "Pronóstico de Temperatura - Ejemplo de Texto"
+      }
+    },
+    "forecast-day": {
+      "font": {
+        "label": "Pronóstico del Día - Tipo de Letra",
+        "text": "Pronóstico del día - Ejemplo del Texto"
+      }
+    },
+    "address": {
+      "address": {
+        "label": "Dirección",
+        "geolocation": "Geolocalización",
+        "display": "Dirección de pantalla",
+        "custom": "Dirección Personalizada",
+        "custom-address": "Tu Dirección Personalizada",
+        "error": "Please enter a Custom Address"
+      },
+      "description": {
+        "label": "Dirección - Descripción",
+        "none": "Ninguno",
+        "service": "Servicio de",
+        "custom": "Descripción Personalizada",
+        "custom-description": "Tu Descripción Personalizada",
+        "error": "Please enter a Custom Description"
+      },
+      "font": {
+        "text": "Dirección - Ejemplo de Texto"
+      }
+    },
+    "humidity-wind": {
+      "heading": "Humedad y Viento",
+      "show": "Mostrar Humedad y Vient",
+      "wind-speed": {
+        "label": "Velocidad de Viento"
+      },
+      "font": {
+        "text": "Humedad y Viento - Ejemplo de Texto"
+      }
+    },
+    "unit": {
+      "heading": "Temperatura",
+      "label": "Unidad"
+    },
+    "terms": {
+      "label": "Reconozco que actualmente no hay cargo por este Widget, pero en una fecha aún no determinada, me costará $2 por pantalla, por mes. En ese momento voy a tener 30 días para decidir si quiero seguir usando este Widget.",
+      "error": "Please accept the terms before saving."
+    },
+    "errors": {
+      "no-data": "Unable to retrieve weather data for that location.",
+      "no-terms": "You must check the Acceptance setting in order to use this Widget."
+    },
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "at": "en",
+    "N": "N",
+    "S": "S",
+    "E": "E",
+    "W": "W",
+    "NE": "NE",
+    "NW": "NW",
+    "SE": "SE",
+    "SW": "SW"
+  }
+}

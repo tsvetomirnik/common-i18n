@@ -1,0 +1,29 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "help": "Help",
+    "monday": "Montag",
+    "tuesday": "Dienstag",
+    "wednesday": "Mittwoch",
+    "thursday": "Donnerstag",
+    "friday": "Freitag",
+    "saturday": "Samstag",
+    "sunday": "Sonntag",
+    "units": {
+      "mph": "mph",
+      "kph": "kph",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit"
+    }
+  },
+  "widgets": {
+    "font": "Font",
+    "layout": {
+      "heading": "Layout",
+      "custom": "Custom",
+      "url": "Layout URL",
+      "error": "Please enter a Layout URL"
+    }
+  }
+}

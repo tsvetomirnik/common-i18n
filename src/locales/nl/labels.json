@@ -1,0 +1,29 @@
+{
+  "common": {
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "help": "Help",
+    "monday": "Maandag",
+    "tuesday": "Dinsdag",
+    "wednesday": "Woensdag",
+    "thursday": "Donderdag",
+    "friday": "Vrijdag",
+    "saturday": "Zaterdag",
+    "sunday": "Zondag",
+    "units": {
+      "mph": "mph",
+      "kph": "kph",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit"
+    }
+  },
+  "widgets": {
+    "font": "Font",
+    "layout": {
+      "heading": "Layout",
+      "custom": "Aangepast",
+      "url": "Layout URL",
+      "error": "Please enter a Layout URL"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "common": {
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "help": "Ajuda",
+    "monday": "Segunda",
+    "tuesday": "Terça",
+    "wednesday": "Quarta",
+    "thursday": "Quinta",
+    "friday": "Sexta",
+    "saturday": "Sábado",
+    "sunday": "Domingo",
+    "units": {
+      "mph": "mi./h",
+      "kph": "km/h",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit"
+    }
+  },
+  "widgets": {
+    "font": "Fonte",
+    "layout": {
+      "heading": "Layout",
+      "custom": "Personalizado",
+      "url": "URL do Layout",
+      "error": "Please enter a Layout URL"
+    }
+  }
+}
