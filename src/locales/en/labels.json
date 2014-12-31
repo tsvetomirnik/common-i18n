@@ -31,6 +31,13 @@
     "oct": "Oct",
     "nov": "Nov",
     "dec": "Dec",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
     "font-variants": {
       "label": "Font Variants",
       "bold": "Bold",
@@ -39,7 +46,11 @@
     "units": {
       "pixels": "px",
       "seconds": "sec",
-      "minutes": "min"
+      "minutes": "min",
+      "mph": "mph",
+      "kph": "kph",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit"
     }
   },
   "storage-client": {
@@ -60,5 +71,14 @@
     "heading": "Subscription Status",
     "get-subscription": "Get a Subscription",
     "continue-to-app": "Continue To App"
+  },
+  "widgets": {
+    "font": "Font",
+    "layout": {
+      "heading": "Layout",
+      "custom": "Custom",
+      "url": "Layout URL",
+      "error": "Please enter a Layout URL"
+    }
   }
 }

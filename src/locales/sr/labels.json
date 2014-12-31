@@ -1,0 +1,29 @@
+{
+  "common": {
+    "save": "Sačuvaj",
+    "cancel": "Otkaži",
+    "help": "Pomoć",
+    "monday": "Ponedeljak",
+    "tuesday": "Utorak",
+    "wednesday": "Sreda",
+    "thursday": "Četvrtak",
+    "friday": "Petak",
+    "saturday": "Subota",
+    "sunday": "Nedelja",
+    "units": {
+      "mph": "m/h",
+      "kph": "km/h",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit"
+    }
+  },
+  "widgets": {
+    "font": "Font",
+    "layout": {
+      "heading": "Layout",
+      "custom": "Custom",
+      "url": "Layout URL",
+      "error": "Please enter a Layout URL"
+    }
+  }
+}
