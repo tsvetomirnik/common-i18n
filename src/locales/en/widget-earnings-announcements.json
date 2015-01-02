@@ -1,0 +1,36 @@
+{
+  "earnings-announcements": {
+    "settings": "Earnings Announcements Settings",
+    "announcements" : {
+      "label":"Announcements",
+      "options":{
+        "yesterday":"Yesterday",
+        "today": "Today",
+        "tomorrow": "Tomorrow"
+      }
+    },
+    "markets":{
+      "label":"Markets",
+      "options":{
+        "usa":"USA",
+        "canada":"Canada",
+        "all":"All (includes London)"
+      }
+    },
+    "columns" : {
+      "label":"Columns",
+      "options":{
+        "companyName":"Company Name",
+        "symbol":"Ticker Symbol",
+        "announcementPeriod":"Quarter Announced",
+        "consensusEPS":"Consensus Estimate",
+        "actualEPS":"Actual Earnings",
+        "consensusRevenue":"Consensus Revenue",
+        "actualRevenue":"Actual Revenue"
+      },
+      "error":{
+        "required" : "required"
+      }
+    }
+  }
+}
