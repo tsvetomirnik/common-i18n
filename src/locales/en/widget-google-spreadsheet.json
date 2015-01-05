@@ -2,13 +2,9 @@
   "google-spreadsheet": {
     "settings": "Google Spreadsheet Settings",
     "layout": {
-      "heading": "Layout",
       "default": {
         "label": "Use Default Layout",
         "tooltip": "Whether to use a default or custom layout"
-      },
-      "url": {
-        "label": "Layout URL"
       }
     },
     "validation": {
