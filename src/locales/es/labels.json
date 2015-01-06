@@ -69,6 +69,7 @@
       "custom": "Personalizar",
       "url": "Diseño URL",
       "error": "Please enter a Layout URL"
-    }
+    },
+    "background-color": "Color de Fondo"
   }
 }

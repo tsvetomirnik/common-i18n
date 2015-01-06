@@ -24,6 +24,8 @@
       "custom": "Tilpasset",
       "url": "Layout URL",
       "error": "Please enter a Layout URL"
-    }
+    },
+    "background-color": "Bakgrunnsfarge"
   }
 }
+

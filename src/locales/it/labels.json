@@ -24,6 +24,7 @@
       "custom": "Personale",
       "url": "URL Disposizione",
       "error": "Please enter a Layout URL"
-    }
+    },
+    "background-color": "Colore sfondo"
   }
 }
