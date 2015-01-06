@@ -82,7 +82,8 @@
           "email": "Email"
         }
       },
-      "error": "Failed to create ticket!"
+      "error": "Failed to create ticket!",
+      "subcompany-selected": "<strong>Warning!</strong> Tickets created for a sub Company will appear under the Company you belong to."
     },
     "details": {
       "by": "Created By",
