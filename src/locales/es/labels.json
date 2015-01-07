@@ -70,6 +70,10 @@
       "url": "Diseño URL",
       "error": "Please enter a Layout URL"
     },
-    "background-color": "Color de Fondo"
+    "background-color": "Color de Fondo",
+    "errors": {
+      "required": "This field is required",
+      "numeric": "This field must be numeric"
+    }
   }
 }

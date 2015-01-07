@@ -25,7 +25,11 @@
       "url": "Layout URL",
       "error": "Please enter a Layout URL"
     },
-    "background-color": "Bakgrunnsfarge"
+    "background-color": "Bakgrunnsfarge",
+    "errors": {
+      "required": "This field is required",
+      "numeric": "This field must be numeric"
+    }
   }
 }
 

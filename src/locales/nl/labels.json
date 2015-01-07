@@ -24,6 +24,10 @@
       "custom": "Aangepast",
       "url": "Layout URL",
       "error": "Please enter a Layout URL"
+    },
+    "errors": {
+      "required": "This field is required",
+      "numeric": "This field must be numeric"
     }
   }
 }

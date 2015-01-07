@@ -25,6 +25,10 @@
       "url": "URL Disposizione",
       "error": "Please enter a Layout URL"
     },
-    "background-color": "Colore sfondo"
+    "background-color": "Colore sfondo",
+    "errors": {
+      "required": "This field is required",
+      "numeric": "This field must be numeric"
+    }
   }
 }

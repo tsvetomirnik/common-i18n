@@ -80,6 +80,10 @@
       "url": "Layout URL",
       "error": "Please enter a Layout URL"
     },
-    "background-color": "Background Color"
+    "background-color": "Background Color",
+    "errors": {
+      "required": "This field is required",
+      "numeric": "This field must be numeric"
+    }
   }
 }
