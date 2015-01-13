@@ -43,6 +43,13 @@
         "label": "Format",
         "12hour": "12-Hour",
         "24hour": "24-Hour"
+      },
+      "show-end": {
+        "label": "Show End Times",
+        "always": "Always",
+        "never": "Never",
+        "hour": "For events one hour long",
+        "extended": "For events longer than one hour"
       }
     },
     "title-font": {
