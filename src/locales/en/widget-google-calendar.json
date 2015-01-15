@@ -9,6 +9,7 @@
     },
     "date": {
       "heading": "Date",
+      "show": "Show Date",
       "range": {
         "label": "Range",
         "day": "Day",
@@ -35,6 +36,7 @@
     },
     "time": {
       "heading": "Time",
+      "show": "Show Time",
       "font": {
         "label": "Font",
         "text": "Time Sample Text"
@@ -53,16 +55,22 @@
       },
       "show-completed": "Show Completed Events"
     },
-    "title-font": {
-      "label": "Title Font",
+    "title": {
+      "heading": "Title",
+      "show": "Show Title",
+      "label": "Font",
       "text": "Title Sample Text"
     },
-    "location-font": {
-      "label": "Location Font",
+    "location": {
+      "heading": "Location",
+      "show": "Show Location",
+      "label": "Font",
       "text": "Location Sample Text"
     },
-    "description-font": {
-      "label": "Description Font",
+    "description": {
+      "heading": "Description",
+      "show": "Show Description",
+      "label": "Font",
       "text": "Description Sample Text"
     }
   }
