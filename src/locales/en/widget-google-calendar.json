@@ -53,7 +53,7 @@
         "hour": "For events one hour long",
         "extended": "For events longer than one hour"
       },
-      "show-completed": "Show Completed Events"
+      "show-completed": "Show Today's Completed Events"
     },
     "title": {
       "heading": "Title",
