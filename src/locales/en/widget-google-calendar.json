@@ -55,19 +55,19 @@
       },
       "show-completed": "Show Today's Completed Events"
     },
-    "title": {
+    "title-font": {
       "heading": "Title",
       "show": "Show Title",
       "label": "Font",
       "text": "Title Sample Text"
     },
-    "location": {
+    "location-font": {
       "heading": "Location",
       "show": "Show Location",
       "label": "Font",
       "text": "Location Sample Text"
     },
-    "description": {
+    "description-font": {
       "heading": "Description",
       "show": "Show Description",
       "label": "Font",
