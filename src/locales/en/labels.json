@@ -78,7 +78,10 @@
       "heading": "Layout",
       "custom": "Custom",
       "url": "Layout URL",
-      "error": "Please enter a Layout URL"
+      "error": "Please enter a Layout URL",
+      "default": {
+        "label": "Use Default Layout"
+      }
     },
     "background-color": "Background Color",
     "errors": {
