@@ -1,0 +1,183 @@
+msgid "bandwidth-query-failed"
+msgstr "Bucket bandwidth query failed"
+
+msgid "confirm-delete"
+msgstr "Delete"
+
+msgid "confirm-deletion"
+msgstr "Please confirm PERMANENT deletion of"
+
+msgid "cost-disclaimer"
+msgstr "There is currently no charge for the use of Storage, however at an as of yet to be determined date in the future, there will be a cost and at that time you will have 90 days to decide if you wish to continue using Storage or not."
+
+msgid "create-initial-folder"
+msgstr "Create initial storage folder"
+
+msgid "create-initial-folder-failed"
+msgstr "Could not create initial folder for {{email}}"
+
+msgid "delete-file"
+msgstr "file: {{file}}"
+
+msgid "delete-files-folders-plural"
+msgstr "{{count}} files and folders are about to be permanently deleted and they cannot be recovered."
+
+msgid "delete-files-plural"
+msgstr "{{count}} files are about to be permanently deleted and they cannot be recovered."
+
+msgid "delete-files-singular"
+msgstr "One file is about to be permanently deleted and it cannot be recovered."
+
+msgid "delete-folder"
+msgstr "folder: {{folder}} and all its contents"
+
+msgid "delete-folders-plural"
+msgstr "{{count}} folders are about to be permanently deleted and they cannot be recovered."
+
+msgid "delete-folders-singular"
+msgstr "One folder is about to be permanently deleted and it cannot be recovered."
+
+msgid "delete-inactive-subscription"
+msgstr "Could not delete. Subscription not active for {{email}}"
+
+msgid "download-status"
+msgstr "Download Status"
+
+msgid "duplicate-folder"
+msgstr "A Folder already uses that name, please choose a different one"
+
+msgid "failed-delete"
+msgstr "Delete Failed"
+
+msgid "failed-restore"
+msgstr "Restore Failed"
+
+msgid "failed-trash"
+msgstr "Move To Trash Failed"
+
+msgid "folder-bucket-creation"
+msgstr "Error creating initial storage for {{email}}"
+
+msgid "folder-inactive-subscription"
+msgstr "Could not create folder. Subscription not active for {{email}}."
+
+msgid "folder-verify-company"
+msgstr "Could not create folder. Unable to authenticate using the email account {{email}}."
+
+msgid "header"
+msgstr "Storage"
+
+msgid "inactive-subscription"
+msgstr "Subscription not active for {{email}}."
+
+msgid "lessThan1MB"
+msgstr "less than one MB"
+
+msgid "loading-files"
+msgstr "Requesting file list for {{username}}"
+
+msgid "loading-functions"
+msgstr "Loading storage functions"
+
+msgid "month-bandwidth"
+msgstr "This month's bandwidth use"
+
+msgid "moved-to-trash"
+msgstr "Moved To Trash"
+
+msgid "new-folder"
+msgstr "New Folder"
+
+msgid "not-authorized"
+msgstr "You are not authorized to view this Company's files"
+
+msgid "pending-delete"
+msgstr "Deleting"
+
+msgid "pending-ops-leave-page"
+msgstr "Warning: There are operations pending."
+
+msgid "pending-restore"
+msgstr "Restoring"
+
+msgid "pending-trash"
+msgstr "Moving To Trash"
+
+msgid "permission-refused"
+msgstr "Permission refused for {{email}}"
+
+msgid "permission-request"
+msgstr "Initiate Permission Request"
+
+msgid "requesting-file-list"
+msgstr "Requesting file list..."
+
+msgid "requesting-permission"
+msgstr "Requesting permission"
+
+msgid "restore-inactive-subscription"
+msgstr "Could not restore from trash. Subscription not active for {{email}}"
+
+msgid "restored-from-trash"
+msgstr "Restored From Trash"
+
+msgid "selected-items"
+msgstr "{{count}} Selected"
+
+msgid "signed-download-uri-request-failed"
+msgstr "Download request failed for {{email}}"
+
+msgid "signed-url-inactive-subscription"
+msgstr "Could not Download. Subscription not active for {{email}}."
+
+msgid "signed-url-verify-company"
+msgstr "Could not Download. We're unable to authenticate you using the email account {{email}}."
+
+msgid "title"
+msgstr "Rise Vision Storage"
+
+msgid "total-file-size"
+msgstr "Total file size"
+
+msgid "trash"
+msgstr "Trash"
+
+msgid "trash-inactive-subscription"
+msgstr "Could not move to trash. Subscription not active for {{email}}"
+
+msgid "unexpected-null-parameter"
+msgstr "Unexpected null parameter"
+
+msgid "upload-bucket-creation"
+msgstr "Error creating initial storage for {{email}}"
+
+msgid "upload-failed"
+msgstr "Upload did not complete"
+
+msgid "upload-file"
+msgstr "Upload File"
+
+msgid "upload-inactive-subscription"
+msgstr "Could not Upload. Subscription not active for {{email}}."
+
+msgid "upload-status"
+msgstr "Upload Status"
+
+msgid "upload-uri-request-failed"
+msgstr "Upload URI request failed"
+
+msgid "upload-uri-request-failed-mail"
+msgstr "Upload URI request failed for {{email}}"
+
+msgid "upload-verify-company"
+msgstr "Could not upload.  Unable to authenticate using the email account {{email}}."
+
+msgid "uploading"
+msgstr "Uploading {{filename}}"
+
+msgid "verify-failed"
+msgstr "Could not verify"
+
+msgid "verifying"
+msgstr "Verifying {{filename}}"
+
