@@ -73,6 +73,12 @@
     "continue-to-app": "Continue To App"
   },
   "widgets": {
+    "alignment": "Alignment",
+    "background-color": "Background Color",
+    "errors": {
+      "required": "This field is required",
+      "numeric": "This field must be numeric"
+    },
     "font": "Font",
     "layout": {
       "heading": "Layout",
@@ -83,10 +89,6 @@
         "label": "Use Default Layout"
       }
     },
-    "background-color": "Background Color",
-    "errors": {
-      "required": "This field is required",
-      "numeric": "This field must be numeric"
-    }
+    "scale-to-fit": "Scale to Fit"
   }
 }
