@@ -1,0 +1,8 @@
+{
+  "image": {
+    "settings": "Image Settings",
+    "errors": {
+      "file-type": "Please provide the URL to a valid image."
+    }
+  }
+}
