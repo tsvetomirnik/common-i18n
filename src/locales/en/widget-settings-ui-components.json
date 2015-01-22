@@ -99,5 +99,23 @@
     "autohide": {
       "label": "Auto Hide Controls"
     }
+  },
+  "position": {
+    "label": "Position",
+    "top": {
+      "left": "Top Left",
+      "center": "Top Center",
+      "right": "Top Right"
+    },
+    "middle": {
+      "left": "Middle Left",
+      "center": "Middle Center",
+      "right": "Middle Right"
+    },
+    "bottom": {
+      "left": "Bottom Left",
+      "center": "Bottom Center",
+      "right": "Bottom Right"
+    }
   }
 }
