@@ -1,0 +1,12 @@
+msgid "invalid"
+msgstr "URL entered appears to be invalid."
+
+msgid "label"
+msgstr "URL"
+
+msgid "validate.label"
+msgstr "Validate URL"
+
+msgid "validate.tooltip"
+msgstr "Un-check "Validate URL" to bypass validation."
+
