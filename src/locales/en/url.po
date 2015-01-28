@@ -1,5 +1,11 @@
-msgid "invalid"
-msgstr "URL entered appears to be invalid."
+msgid "errors.url"
+msgstr "Please provide a valid URL."
+
+msgid "errors.image"
+msgstr "Please provide the URL to a valid image. (jpg, jpeg, png, bmp, svg, gif)"
+
+msgid "errors.video"
+msgstr "Please provide the URL to a valid video. (webm)"
 
 msgid "label"
 msgstr "URL"
