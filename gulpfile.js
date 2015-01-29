@@ -18,6 +18,7 @@ var _ = require("underscore");
 var paths = {
   js: "./src",
   locales: "./src/locales",
+  localesJson: "./src/locales_json",
   distJs: "./dist",
   distLocales: "./dist/locales"
 };
@@ -182,7 +183,7 @@ gulp.task("build-locales", folders(paths.locales, function(locale) {
 }));
 
 gulp.task("json-to-po", folders(paths.locales, function(locale) {
-    return gulp.src(path.join(paths.locales, locale, "*.json"))
+    return gulp.src(path.join(paths.localesJson, locale, "*.json"))
         .pipe(jsoncombine("translation_" + locale + ".json", function(data) {
           var dict = {};
           var destdir = paths.locales + "/" + locale;
