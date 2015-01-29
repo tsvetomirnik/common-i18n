@@ -126,14 +126,16 @@ function POToMap(contents) {
   var msgId, msgStr;
   var pairs = [];
   var map = {};
+  var msgid = "msgid";
+  var msgstr = "msgstr";
 
   // Convert each triplet of lines msgid-msgstr-blank into a list of pairs
   _.each(contents.split("\n"), function(line) {
-    if(line.indexOf("msgid") === 0) {
-      msgId = line.substr(7, line.length - 8);
+    if(line.indexOf(msgid) === 0) {
+      msgId = line.substring(msgid.length + 2, line.lastIndexOf("\""));
     }
-    else if(line.indexOf("msgstr") === 0) {
-      msgStr = line.substr(8, line.length - 9);
+    else if(line.indexOf(msgstr) === 0) {
+      msgStr = line.substring(msgstr.length + 2, line.lastIndexOf("\""));
       
       pairs.push([msgId, msgStr]);
     }
