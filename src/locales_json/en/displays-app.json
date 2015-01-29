@@ -1,0 +1,94 @@
+{
+  "displays-app": {
+    "title": "Displays",
+    "on-boarding": {
+      "title": "Displays",
+      "lead": "This app allows you to manage Displays for the Rise Vision Platform.",
+      "details": "Please Sdign In to start using the Displays App"
+    },
+    "actions": {
+      "new": "Add Display"
+    },
+    "list": {
+      "empty": "You haven't created any displays yet",
+      "heading": {
+        "name": "Name",
+        "status": "Status",
+        "lastConnection": "Last Connection"
+      },
+      "filter": {
+        "placeholder": "Search for Displays",
+        "filters": "Filters"
+      }
+    },
+    "fields": {
+      "id": "Display Id:",
+      "status": {
+        "name": "Status",
+        "active": "Active",
+        "inactive": "Inactive"
+      },
+      "name": {
+        "name": "Name",
+        "required": "Required."
+      },
+      "reboot": "Reboot:",
+      "monitor": "Monitor",
+      "address": {
+        "useCompany": "Use Company Address",
+        "description": "Description",
+        "street": "Street",
+        "unit": "Unit",
+        "city": "City",
+        "country": {
+          "name": "Country",
+          "placeholder": "&lt; Select Country &gt;"
+        },
+        "province": {
+          "name": "State/Province/Region",
+          "provincePlaceholder": "&lt; Select Province &gt;",
+          "statePlaceholder": "&lt; Select State &gt;"
+        },
+        "postalCode": "Zip / Postal Code",
+        "timezone": {
+          "name": "Time Zone",
+          "placeholder": "&lt; Select Time Zone &gt;"
+        }
+      },
+      "controls": {
+        "download": "Download Player",
+        "restart": {
+          "name": "Restart Player",
+          "warning": "The Rise Player on the Display's Computer will restart and the currently Scheduled Content will be interrupted. Do you wish to proceed?",
+          "success": "Restart signal sent"
+        },
+        "reboot": {
+          "name": "Reboot Player",
+          "rebootWarning": "The Rise Player on the Display's Computer will reboot and the currently Scheduled Content will be interrupted. Do you wish to proceed?",
+          "success": "Reboot signal sent"
+        },
+        "error": "Error:"
+      },
+      "player": {
+        "playerWarning": "No Player software is installed on the Display",
+        "resolution": "Resolution:",
+        "ipAddress": "IP Address:",
+        "operatingSystem": "Operating System:",
+        "playerVersion": "Player Version:",
+        "viewerVersion": "Viewer Version:",
+        "playerUpgrade": {
+          "name": "Player Upgrade:",
+          "autoUpgrade": "Auto Upgrade"
+        },
+        "installedBrowser": "Installed Browser:"
+      }
+    },
+    "add": {
+      "error": "Failed to create display!"
+    },
+    "details": {
+      "error": "Failed to update display!",
+      "deleteWarning": "Are you sure you want to delete this Display?"
+    }
+  }
+}
