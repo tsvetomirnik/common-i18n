@@ -55,7 +55,8 @@
     "new-folder": "Nueva Carpeta",
     "upload-file": "Subir Archivo",
     "confirm-delete": "Eliminar",
-    "trash": "Papelera"
+    "trash": "Papelera",
+    "tagging": "Tagging"
   },
   "subscription-status": {
     "heading": "Estado de la suscripción",
