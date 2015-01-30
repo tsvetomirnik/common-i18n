@@ -139,6 +139,9 @@ msgstr "Could not Download. Subscription not active for {{email}}."
 msgid "signed-url-verify-company"
 msgstr "Could not Download. We're unable to authenticate you using the email account {{email}}."
 
+msgid "tagging"
+msgstr "Tagging"
+
 msgid "title"
 msgstr "Rise Vision Storage"
 
