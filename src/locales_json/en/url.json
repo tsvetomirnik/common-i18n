@@ -1,0 +1,12 @@
+{
+  "errors": {
+    "image": "Please provide the URL to a valid image. (jpg, jpeg, png, bmp, svg, gif)",
+    "url": "Please provide a valid URL.",
+    "video": "Please provide the URL to a valid video. (webm)"
+  },
+  "label": "URL",
+  "validate": {
+    "label": "Validate URL",
+    "tooltip": "Un-check \"Validate URL\" to bypass validation."
+  }
+}
