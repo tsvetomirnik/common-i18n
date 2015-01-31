@@ -24,7 +24,9 @@ Common i18n files to be shared across Rise Vision apps, widgets and components.
 2. Install front-end dependencies `$ bower install`
 
 ## Development Notes
-All translation files go under `/src/locales/{lang}`, where {lang} should be replaced with the language code the translation file applies to. The file extension must be .json.
+All translation files go under `/src/locales/{lang}`, where {lang} should be replaced with the language code the translation file applies to. The file extension must be .po. PO is the main format and the one used as source for the generated production files.
+
+Alternatively, you can modify the JSON files located in `/src/locales_json/{lang}` and convert them to PO using `$ gulp json-to-po`. These files are provided as a convenience, and it's important to note that they are overwritten everytime `$ gulp build` is ran.
 
 
 ### Run Local
@@ -32,7 +34,9 @@ Run `$ gulp` to see a list of available tasks.
 
 
 ## Build
-To build run `$gulp build`. This will generate a `dist` folder with a `locales` folder, containing a combined and minified json file for each locale, named translation_{lang}.json.
+To build run `$ gulp build`. This will generate a `dist` folder with a `locales` folder, containing a combined and minified json file for each locale, named translation_{lang}.json.
+
+The JSON files in `locales_json` will also be regenerated based on the existing PO files.
 
 
 ## Usage

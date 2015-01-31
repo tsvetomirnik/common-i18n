@@ -14,6 +14,7 @@ var folders = require('gulp-folders');
 var fs = require("fs");
 var tap = require("gulp-tap");
 var _ = require("underscore");
+var endOfLine = require('os').EOL;
 
 var paths = {
   js: "./src",
@@ -88,9 +89,9 @@ function mapToPO(source) {
   });
 
   _.each(pairs, function(pair) {
-    content += "msgid \"" + pair[0] + "\"" + "\n";
-    content += "msgstr \"" + pair[1] + "\"" + "\n";
-    content += "\n";
+    content += "msgid \"" + pair[0] + "\"" + endOfLine;
+    content += "msgstr \"" + pair[1] + "\"" + endOfLine;
+    content += endOfLine;
   });
 
   return content;
@@ -146,7 +147,8 @@ function POToMap(contents) {
     return pair[0];
   });
 
-  _.each(pairs, function(pair) {
+  // Use reverse so the map gets build in the proper ascending order
+  _.each(pairs.reverse(), function(pair) {
     map = mergeProperties(map, dottedStringToMap(pair[0], pair[1]), true);
   });
 
@@ -184,33 +186,29 @@ gulp.task("build-locales", folders(paths.locales, function(locale) {
         .pipe(gulp.dest(paths.distLocales));
 }));
 
-gulp.task("json-to-po", folders(paths.locales, function(locale) {
-    return gulp.src(path.join(paths.localesJson, locale, "*.json"))
-        .pipe(jsoncombine("translation_" + locale + ".json", function(data) {
-          var dict = {};
-          var destdir = paths.locales + "/" + locale;
+gulp.task("po-to-json", folders(paths.locales, function(locale) {
+    return gulp.src(path.join(paths.locales, locale, "*.po"))
+        .pipe(tap(function(file, t) {
+          var map = POToMap(String(file.contents));
 
-          // Merge all the json files into one map
-          for(var file in data) {
-            mergeProperties(data[file], dict);
-          }
-
-          fs.mkdir(destdir, function(err) {
-            if(err && err.code !== "EEXIST") { throw err; }
-          });
-
-          // Converts each main section of the merged JSON file into a PO file
-          for(var key in dict) {
-            var contents = mapToPO(flattenKeys(dict[key]));
-
-            fs.writeFile(destdir + "/" + key + ".po", contents);
-          }
-
-          return new Buffer("");
-        }));
+          file.contents = new Buffer(JSON.stringify(map, null, "  "));
+        }))
+        .pipe(rename({ extname: ".json" }))
+        .pipe(gulp.dest(paths.localesJson + "/" + locale));
 }));
 
-gulp.task("build", ["minify-js", "build-locales"], function() {
+gulp.task("json-to-po", folders(paths.localesJson, function(locale) {
+    return gulp.src(path.join(paths.localesJson, locale, "*.json"))
+        .pipe(tap(function(file, t) {
+          var map = JSON.parse(String(file.contents));
+
+          file.contents = new Buffer(mapToPO(flattenKeys(map)));
+        }))
+        .pipe(rename({ extname: ".po" }))
+        .pipe(gulp.dest(paths.locales + "/" + locale));
+}));
+
+gulp.task("build", ["minify-js", "build-locales", "po-to-json"], function() {
 
 });
 
@@ -219,7 +217,7 @@ gulp.task("dev", function() {
   gulp.run("build");
 
   // Watch locale files for changes
-  gulp.watch([paths.locales + "/**/*.json"], ["build"]);
+  gulp.watch([paths.locales + "/**/*.po"], ["build"]);
   console.log("[locales] Watching for changes in locale files".yellow.inverse);
 });
 

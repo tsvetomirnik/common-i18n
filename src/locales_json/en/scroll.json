@@ -1,0 +1,21 @@
+{
+  "by": {
+    "continuous": "Continuously",
+    "label": "Type",
+    "none": "No",
+    "page": "By Page"
+  },
+  "heading": "Scroll",
+  "pause": {
+    "label": "Pause",
+    "tooltip": "Number of seconds to pause after touch or the end of the list is reached"
+  },
+  "speed": {
+    "fast": "Fast",
+    "fastest": "Fastest",
+    "label": "Speed",
+    "medium": "Medium",
+    "slow": "Slow",
+    "slowest": "Slowest"
+  }
+}

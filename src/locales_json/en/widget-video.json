@@ -1,8 +1,0 @@
-{
-  "video": {
-    "settings": "Video Settings",
-    "errors": {
-      "format": "Only the WebM media file format is supported. Please choose a '.webm' file."
-    }
-  }
-}

@@ -1,0 +1,19 @@
+{
+  "alignment": "Alignment",
+  "background-color": "Background Color",
+  "errors": {
+    "numeric": "This field must be numeric",
+    "required": "This field is required"
+  },
+  "font": "Font",
+  "layout": {
+    "custom": "Custom",
+    "default": {
+      "label": "Use Default Layout"
+    },
+    "error": "Please enter a Layout URL",
+    "heading": "Layout",
+    "url": "Layout URL"
+  },
+  "scale-to-fit": "Scale to Fit"
+}
