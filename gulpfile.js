@@ -3,6 +3,7 @@
 
 var gulp = require("gulp");
 var path = require("path");
+var bump = require("gulp-bump");
 var colors = require("colors");
 var concat = require("gulp-concat");
 var uglify = require("gulp-uglify");
@@ -26,7 +27,7 @@ var paths = {
 
 /**
  * Recursively copies the properties of source into object, failing in case a duplicate is found.
- * 
+ *
  * @return dest
  */
 function mergeProperties(source, dest, acceptDuplicates) {
@@ -53,13 +54,13 @@ function mergeProperties(source, dest, acceptDuplicates) {
 
 /**
  * Recursively flattens an object into a single level map, separating each level with a dot.
- * 
- * For instance: 
+ *
+ * For instance:
  *   { a: "val1", b: { b1: { "val2" } } }
- *   
+ *
  * will be converted to:
  *   { a: "val1", b.b1: "val2" }
- *   
+ *
  * @return A new map with the flattened properties
  */
 function flattenKeys(source, prefix) {
@@ -137,7 +138,7 @@ function POToMap(contents) {
     }
     else if(line.indexOf(msgstr) === 0) {
       msgStr = line.substring(msgstr.length + 2, line.lastIndexOf("\""));
-      
+
       pairs.push([msgId, msgStr]);
     }
   });
@@ -154,6 +155,12 @@ function POToMap(contents) {
 
   return map;
 }
+
+gulp.task("bump", function(){
+  return gulp.src(["./package.json", "./bower.json"])
+    .pipe(bump({type:"patch"}))
+    .pipe(gulp.dest("./"));
+});
 
 gulp.task("minify-js", function () {
   gulp.src(paths.js + '/**/*.js') // path to your files
