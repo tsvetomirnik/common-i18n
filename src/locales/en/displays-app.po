@@ -148,15 +148,6 @@ msgstr "Status"
 msgid "list.no-results"
 msgstr "Your search didn't return any results"
 
-msgid "on-boarding.details"
-msgstr "Please Sdign In to start using the Displays App"
-
-msgid "on-boarding.lead"
-msgstr "This app allows you to manage Displays for the Rise Vision Platform."
-
-msgid "on-boarding.title"
-msgstr "Displays"
-
 msgid "title"
 msgstr "Displays"
 
