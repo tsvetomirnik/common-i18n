@@ -1,0 +1,14 @@
+{
+  "auto-hide": "Auto Hide Navigation",
+  "duration": "Duration",
+  "order": {
+    "alpha-asc": "A to Z",
+    "alpha-desc": "Z to A",
+    "date-asc": "Date &uarr;",
+    "date-desc": "Date &darr;",
+    "label": "Order",
+    "random": "Random"
+  },
+  "pause": "Pause",
+  "settings": "Image Folder Settings"
+}

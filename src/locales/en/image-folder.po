@@ -1,0 +1,30 @@
+msgid "auto-hide"
+msgstr "Auto Hide Navigation"
+
+msgid "duration"
+msgstr "Duration"
+
+msgid "order.alpha-asc"
+msgstr "A to Z"
+
+msgid "order.alpha-desc"
+msgstr "Z to A"
+
+msgid "order.date-asc"
+msgstr "Date &uarr;"
+
+msgid "order.date-desc"
+msgstr "Date &darr;"
+
+msgid "order.label"
+msgstr "Order"
+
+msgid "order.random"
+msgstr "Random"
+
+msgid "pause"
+msgstr "Pause"
+
+msgid "settings"
+msgstr "Image Folder Settings"
+
