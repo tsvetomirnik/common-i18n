@@ -11,10 +11,10 @@ msgid "order.alpha-desc"
 msgstr "Z to A"
 
 msgid "order.date-asc"
-msgstr "Date &uarr;"
+msgstr "Date"
 
 msgid "order.date-desc"
-msgstr "Date &darr;"
+msgstr "Date"
 
 msgid "order.label"
 msgstr "Order"

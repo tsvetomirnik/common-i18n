@@ -4,8 +4,8 @@
   "order": {
     "alpha-asc": "A to Z",
     "alpha-desc": "Z to A",
-    "date-asc": "Date &uarr;",
-    "date-desc": "Date &darr;",
+    "date-asc": "Date",
+    "date-desc": "Date",
     "label": "Order",
     "random": "Random"
   },
