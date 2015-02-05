@@ -25,6 +25,10 @@
   "jan": "Jan",
   "jul": "Jul",
   "jun": "Jun",
+  "last-modified": {
+    "by": "by",
+    "saved": "Saved"
+  },
   "logging-in": "Logging in...",
   "lremove": "remove",
   "mar": "Mar",

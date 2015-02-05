@@ -125,7 +125,7 @@ msgid "fields.status.name"
 msgstr "Status"
 
 msgid "list.empty"
-msgstr "You haven't created any displays yet"
+msgstr "You haven't created any Displays yet"
 
 msgid "list.filter.filters"
 msgstr "Filters"
@@ -141,6 +141,9 @@ msgstr "Name"
 
 msgid "list.heading.status"
 msgstr "Status"
+
+msgid "list.no-results"
+msgstr "Your search didn't return any results"
 
 msgid "on-boarding.details"
 msgstr "Please Sdign In to start using the Displays App"
