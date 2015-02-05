@@ -72,7 +72,7 @@
     }
   },
   "list": {
-    "empty": "You haven't created any displays yet",
+    "empty": "You haven't created any Displays yet",
     "filter": {
       "filters": "Filters",
       "placeholder": "Search for Displays"
@@ -81,7 +81,8 @@
       "lastConnection": "Last Connection",
       "name": "Name",
       "status": "Status"
-    }
+    },
+    "no-results": "Your search didn't return any results"
   },
   "on-boarding": {
     "details": "Please Sdign In to start using the Displays App",

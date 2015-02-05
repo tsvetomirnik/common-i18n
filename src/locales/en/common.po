@@ -70,6 +70,12 @@ msgstr "Jul"
 msgid "jun"
 msgstr "Jun"
 
+msgid "last-modified.by"
+msgstr "by"
+
+msgid "last-modified.saved"
+msgstr "Saved"
+
 msgid "logging-in"
 msgstr "Logging in..."
 
