@@ -16,14 +16,14 @@ msgstr "{{count}} folders are about to be permanently deleted."
 msgid "delete-folders-singular"
 msgstr "One folder is about to be permanently deleted."
 
+msgid "delete-verify-company"
+msgstr "You cannot delete a file because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+
 msgid "download-status"
 msgstr "Download Status"
 
 msgid "duplicate-folder"
 msgstr "A Folder already uses that name, please choose a different one"
-
-msgid "delete-verify-company"
-msgstr "You cannot delete a file because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
 
 msgid "failed-delete"
 msgstr "Delete failed.  Please try again."
@@ -55,11 +55,11 @@ msgstr "New Folder"
 msgid "not-authorized"
 msgstr "Your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
 
-msgid "pending-ops-leave-page"
-msgstr "There are tasks in progress.  If you close this window they won't be completed."
-
 msgid "pending-delete"
 msgstr "Deleting..."
+
+msgid "pending-ops-leave-page"
+msgstr "There are tasks in progress.  If you close this window they won't be completed."
 
 msgid "pending-restore"
 msgstr "Restoring..."
@@ -108,3 +108,4 @@ msgstr "The upload failed because your account {{username}} does not have access
 
 msgid "uploading"
 msgstr "Uploading {{filename}}"
+

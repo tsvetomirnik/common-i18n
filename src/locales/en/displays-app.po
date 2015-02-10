@@ -94,6 +94,9 @@ msgstr "IP Address:"
 msgid "fields.player.operatingSystem"
 msgstr "Operating System:"
 
+msgid "fields.player.orientation"
+msgstr "Orientation"
+
 msgid "fields.player.playerUpgrade.autoUpgrade"
 msgstr "Auto Upgrade"
 
