@@ -55,6 +55,7 @@
       "installedBrowser": "Installed Browser:",
       "ipAddress": "IP Address:",
       "operatingSystem": "Operating System:",
+      "orientation": "Orientation",
       "playerUpgrade": {
         "autoUpgrade": "Auto Upgrade",
         "name": "Player Upgrade:"
