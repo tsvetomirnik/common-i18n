@@ -85,10 +85,5 @@
     },
     "no-results": "Your search didn't return any results"
   },
-  "on-boarding": {
-    "details": "Please Sdign In to start using the Displays App",
-    "lead": "This app allows you to manage Displays for the Rise Vision Platform.",
-    "title": "Displays"
-  },
   "title": "Displays"
 }
