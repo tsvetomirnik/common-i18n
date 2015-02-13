@@ -10,5 +10,6 @@
     "random": "Random"
   },
   "pause": "Pause",
-  "settings": "Image Folder Settings"
+  "settings": "Image Folder Settings",
+  "storage-error": "Please select a folder from Storage."
 }

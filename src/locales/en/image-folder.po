@@ -28,3 +28,6 @@ msgstr "Pause"
 msgid "settings"
 msgstr "Image Folder Settings"
 
+msgid "storage-error"
+msgstr "Please select a folder from Storage."
+
