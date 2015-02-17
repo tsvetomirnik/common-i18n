@@ -28,6 +28,9 @@ msgstr "Delete"
 msgid "delete-forever"
 msgstr "Delete Forever"
 
+msgid "discard"
+msgstr "Discard"
+
 msgid "feb"
 msgstr "Feb"
 

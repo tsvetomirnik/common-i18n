@@ -4,11 +4,20 @@ msgstr "Add Display"
 msgid "add.error"
 msgstr "Failed to create display!"
 
+msgid "details.deleteTitle"
+msgstr "Deleting Display"
+
 msgid "details.deleteWarning"
 msgstr "Are you sure you want to delete this Display?"
 
 msgid "details.error"
 msgstr "Failed to update display!"
+
+msgid "details.unsavedTitle"
+msgstr "Unsaved Changes"
+
+msgid "details.unsavedWarning"
+msgstr "You have unsaved changes. Do you want to Save or Discard them?"
 
 msgid "fields.address.city"
 msgstr "City"
@@ -58,11 +67,14 @@ msgstr "Error:"
 msgid "fields.controls.reboot.name"
 msgstr "Reboot Player"
 
-msgid "fields.controls.reboot.rebootWarning"
-msgstr "The Rise Player on the Display's Computer will reboot and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
-
 msgid "fields.controls.reboot.success"
 msgstr "Reboot signal sent"
+
+msgid "fields.controls.reboot.title"
+msgstr "Rebooting Display"
+
+msgid "fields.controls.reboot.warning"
+msgstr "The Rise Player on the Display's Computer will reboot and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
 
 msgid "fields.controls.restart.name"
 msgstr "Restart Player"
@@ -70,14 +82,20 @@ msgstr "Restart Player"
 msgid "fields.controls.restart.success"
 msgstr "Restart signal sent"
 
+msgid "fields.controls.restart.title"
+msgstr "Restarting Display"
+
 msgid "fields.controls.restart.warning"
 msgstr "The Rise Player on the Display's Computer will restart and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
 
 msgid "fields.id"
 msgstr "Display Id:"
 
-msgid "fields.monitor"
+msgid "fields.monitor.name"
 msgstr "Monitor"
+
+msgid "fields.monitor.warning"
+msgstr "No Monitoring Emails have been set up for your Company. Please go to your Company Settings to configure."
 
 msgid "fields.name.name"
 msgstr "Name"
@@ -95,7 +113,7 @@ msgid "fields.player.operatingSystem"
 msgstr "Operating System:"
 
 msgid "fields.player.orientation"
-msgstr "Orientation"
+msgstr "Orientation:"
 
 msgid "fields.player.playerUpgrade.autoUpgrade"
 msgstr "Auto Upgrade"
