@@ -6,8 +6,11 @@
     "error": "Failed to create display!"
   },
   "details": {
+    "deleteTitle": "Deleting Display",
     "deleteWarning": "Are you sure you want to delete this Display?",
-    "error": "Failed to update display!"
+    "error": "Failed to update display!",
+    "unsavedTitle": "Unsaved Changes",
+    "unsavedWarning": "You have unsaved changes. Do you want to Save or Discard them?"
   },
   "fields": {
     "address": {
@@ -36,17 +39,22 @@
       "error": "Error:",
       "reboot": {
         "name": "Reboot Player",
-        "rebootWarning": "The Rise Player on the Display's Computer will reboot and the currently Scheduled Content will be interrupted. Do you wish to proceed?",
-        "success": "Reboot signal sent"
+        "success": "Reboot signal sent",
+        "title": "Rebooting Display",
+        "warning": "The Rise Player on the Display's Computer will reboot and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
       },
       "restart": {
         "name": "Restart Player",
         "success": "Restart signal sent",
+        "title": "Restarting Display",
         "warning": "The Rise Player on the Display's Computer will restart and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
       }
     },
     "id": "Display Id:",
-    "monitor": "Monitor",
+    "monitor": {
+      "name": "Monitor",
+      "warning": "No Monitoring Emails have been set up for your Company. Please go to your Company Settings to configure."
+    },
     "name": {
       "name": "Name",
       "required": "Required."
@@ -55,7 +63,7 @@
       "installedBrowser": "Installed Browser:",
       "ipAddress": "IP Address:",
       "operatingSystem": "Operating System:",
-      "orientation": "Orientation",
+      "orientation": "Orientation:",
       "playerUpgrade": {
         "autoUpgrade": "Auto Upgrade",
         "name": "Player Upgrade:"
