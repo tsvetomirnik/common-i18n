@@ -22,8 +22,11 @@ msgstr "Order"
 msgid "order.random"
 msgstr "Random"
 
-msgid "pause"
+msgid "pause.label"
 msgstr "Pause"
+
+msgid "pause.tooltip"
+msgstr "Number of seconds before slideshow resumes after a touch"
 
 msgid "settings"
 msgstr "Image Folder Settings"
