@@ -9,7 +9,10 @@
     "label": "Order",
     "random": "Random"
   },
-  "pause": "Pause",
+  "pause": {
+    "label": "Pause",
+    "tooltip": "Number of seconds before slideshow resumes after a touch"
+  },
   "settings": "Image Folder Settings",
   "storage-error": "Please select a folder from Storage."
 }
