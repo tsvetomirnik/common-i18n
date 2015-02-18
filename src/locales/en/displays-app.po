@@ -103,8 +103,29 @@ msgstr "Name"
 msgid "fields.name.required"
 msgstr "Required."
 
-msgid "fields.player.installedBrowser"
+msgid "fields.player.browser.installed"
 msgstr "Installed Browser:"
+
+msgid "fields.player.browser.recommended"
+msgstr "Recommended Browser:"
+
+msgid "fields.player.browser.upgrade.autoUpgrade"
+msgstr "Auto Upgrade"
+
+msgid "fields.player.browser.upgrade.current"
+msgstr "Current"
+
+msgid "fields.player.browser.upgrade.name"
+msgstr "Player Upgrade:"
+
+msgid "fields.player.browser.upgrade.previous"
+msgstr "Previous"
+
+msgid "fields.player.browser.upgrade.userManaged"
+msgstr "User Managed"
+
+msgid "fields.player.browser.upgrade.warning"
+msgstr "Using any option other than Auto Upgrade may result in Presentation Content failures."
 
 msgid "fields.player.ipAddress"
 msgstr "IP Address:"
@@ -114,12 +135,6 @@ msgstr "Operating System:"
 
 msgid "fields.player.orientation"
 msgstr "Orientation:"
-
-msgid "fields.player.playerUpgrade.autoUpgrade"
-msgstr "Auto Upgrade"
-
-msgid "fields.player.playerUpgrade.name"
-msgstr "Player Upgrade:"
 
 msgid "fields.player.playerVersion"
 msgstr "Player Version:"
