@@ -60,14 +60,21 @@
       "required": "Required."
     },
     "player": {
-      "installedBrowser": "Installed Browser:",
+      "browser": {
+        "installed": "Installed Browser:",
+        "recommended": "Recommended Browser:",
+        "upgrade": {
+          "autoUpgrade": "Auto Upgrade",
+          "current": "Current",
+          "name": "Player Upgrade:",
+          "previous": "Previous",
+          "userManaged": "User Managed",
+          "warning": "Using any option other than Auto Upgrade may result in Presentation Content failures."
+        }
+      },
       "ipAddress": "IP Address:",
       "operatingSystem": "Operating System:",
       "orientation": "Orientation:",
-      "playerUpgrade": {
-        "autoUpgrade": "Auto Upgrade",
-        "name": "Player Upgrade:"
-      },
       "playerVersion": "Player Version:",
       "playerWarning": "No Player software is installed on the Display",
       "resolution": "Resolution:",
