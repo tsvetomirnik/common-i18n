@@ -1,7 +1,4 @@
 {
-  "autohide": {
-    "label": "Auto Hide Controls"
-  },
   "autoplay": {
     "label": "Auto Play"
   },
@@ -9,9 +6,6 @@
     "format": "Only the WebM media file format is supported. Please choose a '.webm' file."
   },
   "heading": "Video",
-  "loop": {
-    "label": "Loop"
-  },
   "settings": "Video Settings",
   "volume": {
     "label": "Volume"
