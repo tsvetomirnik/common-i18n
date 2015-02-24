@@ -2,9 +2,6 @@
   "autoplay": {
     "label": "Auto Play"
   },
-  "errors": {
-    "format": "Only the WebM media file format is supported. Please choose a '.webm' file."
-  },
   "heading": "Video",
   "settings": "Video Settings",
   "volume": {

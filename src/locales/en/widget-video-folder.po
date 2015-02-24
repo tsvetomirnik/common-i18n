@@ -1,0 +1,3 @@
+msgid "settings"
+msgstr "Video Folder Settings"
+
