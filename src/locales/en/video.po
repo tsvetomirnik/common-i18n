@@ -1,9 +1,6 @@
 msgid "autoplay.label"
 msgstr "Auto Play"
 
-msgid "errors.format"
-msgstr "Only the WebM media file format is supported. Please choose a '.webm' file."
-
 msgid "heading"
 msgstr "Video"
 
