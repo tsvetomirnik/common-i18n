@@ -50,23 +50,12 @@ angular.module("pascalprecht.translate").factory("$translateStaticFilesLoader", 
 angular.module("risevision.common.i18n", ["pascalprecht.translate", "risevision.common.i18n.config"])
 .config(["$translateProvider", "LOCALES_PREFIX", "LOCALES_SUFIX", function ($translateProvider, LOCALES_PREFIX, LOCALES_SUFIX) {
   // Tries to determine the browsers locale
-  var getLocale = function () {
-    var nav = window.navigator;
-    return ((
-      angular.isArray(nav.languages) ? nav.languages[0] :
-      nav.language ||
-      nav.browserLanguage ||
-      nav.systemLanguage ||
-      nav.userLanguage
-    ) || "").split("-").join("_");
-  };
-
   $translateProvider.useStaticFilesLoader({
     prefix: LOCALES_PREFIX,
     suffix: LOCALES_SUFIX
   });
   
   $translateProvider
-    .determinePreferredLanguage(getLocale)
+    .determinePreferredLanguage()
     .fallbackLanguage("en");
 }]);
