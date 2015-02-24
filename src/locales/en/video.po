@@ -1,6 +1,3 @@
-msgid "autohide.label"
-msgstr "Auto Hide Controls"
-
 msgid "autoplay.label"
 msgstr "Auto Play"
 
@@ -9,9 +6,6 @@ msgstr "Only the WebM media file format is supported. Please choose a '.webm' fi
 
 msgid "heading"
 msgstr "Video"
-
-msgid "loop.label"
-msgstr "Loop"
 
 msgid "settings"
 msgstr "Video Settings"
