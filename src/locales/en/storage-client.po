@@ -70,6 +70,9 @@ msgstr "Moving to trash..."
 msgid "restore-inactive-subscription"
 msgstr "You cannot restore the file from trash because you don't have an active subscription.  Please purchase a subscription and try again."
 
+msgid "restore-verify-company"
+msgstr "You cannot restore the file from trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+
 msgid "selected-items"
 msgstr "{{count}} Selected"
 
@@ -82,11 +85,23 @@ msgstr "The download failed because your account {{username}} does not have acce
 msgid "tagging"
 msgstr "Tagging"
 
+msgid "tagging-inactive-subscription"
+msgstr "You cannot modify tags because you don't have an active subscription.  Please purchase a subscription and try again."
+
+msgid "tagging-verify-company"
+msgstr "You cannot modify tags because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+
 msgid "title"
 msgstr "Rise Vision Storage"
 
 msgid "trash"
 msgstr "Trash"
+
+msgid "trash-inactive-subscription"
+msgstr "You cannot move the file to trash because you don't have an active subscription.  Please purchase a subscription and try again."
+
+msgid "trash-verify-company"
+msgstr "You cannot move the file to trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
 
 msgid "upload-failed"
 msgstr "Upload failed.  Please try again."
