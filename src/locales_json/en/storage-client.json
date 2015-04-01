@@ -27,6 +27,7 @@
   "selected-items": "{{count}} Selected",
   "signed-download-uri-request-failed": "Download failed.  Please try again.",
   "signed-url-verify-company": "The download failed because your account {{username}} does not have access to this company.  Please log in with a different account and try again.",
+  "tag-definition-confirm-delete": "One tag definition is about to be permanently deleted",
   "tagging": "Tagging",
   "tagging-inactive-subscription": "You cannot modify tags because you don't have an active subscription.  Please purchase a subscription and try again.",
   "tagging-verify-company": "You cannot modify tags because your account {{username}} doesn't have access to this company.  Please login with a different account and try again.",

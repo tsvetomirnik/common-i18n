@@ -85,6 +85,9 @@ msgstr "The download failed because your account {{username}} does not have acce
 msgid "tagging"
 msgstr "Tagging"
 
+msgid "tag-definition-confirm-delete"
+msgstr "One tag definition is about to be permanently deleted"
+
 msgid "tagging-inactive-subscription"
 msgstr "You cannot modify tags because you don't have an active subscription.  Please purchase a subscription and try again."
 
