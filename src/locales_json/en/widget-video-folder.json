@@ -1,3 +1,8 @@
 {
+  "controls": "Show Video Controls",
+  "pause": {
+    "label": "Resume After Pause",
+    "tooltip": "Number of seconds before a video will resume playing if paused"
+  },
   "settings": "Video Folder Settings"
 }
