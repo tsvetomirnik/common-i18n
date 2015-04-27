@@ -1,3 +1,12 @@
+msgid "controls"
+msgstr "Show Video Controls"
+
+msgid "pause.label"
+msgstr "Resume After Pause"
+
+msgid "pause.tooltip"
+msgstr "Number of seconds before a video will resume playing if paused"
+
 msgid "settings"
 msgstr "Video Folder Settings"
 

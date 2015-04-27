@@ -82,11 +82,11 @@ msgstr "Download failed.  Please try again."
 msgid "signed-url-verify-company"
 msgstr "The download failed because your account {{username}} does not have access to this company.  Please log in with a different account and try again."
 
-msgid "tagging"
-msgstr "Tagging"
-
 msgid "tag-definition-confirm-delete"
 msgstr "One tag definition is about to be permanently deleted"
+
+msgid "tagging"
+msgstr "Tagging"
 
 msgid "tagging-inactive-subscription"
 msgstr "You cannot modify tags because you don't have an active subscription.  Please purchase a subscription and try again."

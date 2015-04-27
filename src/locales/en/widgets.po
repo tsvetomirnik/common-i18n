@@ -43,3 +43,6 @@ msgstr "Number of seconds before slideshow resumes after a touch"
 msgid "scale-to-fit"
 msgstr "Scale to Fit"
 
+msgid "storage.folder.url"
+msgstr "Rise Storage Folder URL"
+

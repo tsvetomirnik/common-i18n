@@ -21,5 +21,10 @@
     "label": "Pause",
     "tooltip": "Number of seconds before slideshow resumes after a touch"
   },
-  "scale-to-fit": "Scale to Fit"
+  "scale-to-fit": "Scale to Fit",
+  "storage": {
+    "folder": {
+      "url": "Rise Storage Folder URL"
+    }
+  }
 }
