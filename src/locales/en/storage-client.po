@@ -50,10 +50,13 @@ msgid "loading-functions"
 msgstr "Loading..."
 
 msgid "new-folder"
-msgstr "New Folder"
+msgstr "Add Folder"
 
 msgid "not-authorized"
 msgstr "Your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+
+msgid "open-in-storage-app"
+msgstr "Open in Storage App"
 
 msgid "pending-delete"
 msgstr "Deleting..."
@@ -72,6 +75,18 @@ msgstr "You cannot restore the file from trash because you don't have an active 
 
 msgid "restore-verify-company"
 msgstr "You cannot restore the file from trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
+
+msgid "select-file"
+msgstr "Select a File"
+
+msgid "select-multiple-file"
+msgstr "Select one or more Files"
+
+msgid "select-single-file"
+msgstr "Select a File"
+
+msgid "select-single-folder"
+msgstr "Select a Folder"
 
 msgid "selected-items"
 msgstr "{{count}} Selected"
@@ -126,4 +141,10 @@ msgstr "The upload failed because your account {{username}} does not have access
 
 msgid "uploading"
 msgstr "Uploading {{filename}}"
+
+msgid "uploading-count-files"
+msgstr "Uploading {{count}} files"
+
+msgid "uploading-one-file"
+msgstr "Uploading 1 file"
 
