@@ -1,6 +1,9 @@
 msgid "access-denied"
 msgstr "You don't have access to that action. Please contact your Administrator to give you the access you need."
 
+msgid "cancel-uploads"
+msgstr "Cancel All"
+
 msgid "delete-files-folders-plural"
 msgstr "{{count}} files and folders are about to be permanently deleted."
 
@@ -88,6 +91,9 @@ msgstr "Select a File"
 msgid "select-single-folder"
 msgstr "Select a Folder"
 
+msgid "retry-failed-uploads"
+msgstr "Retry failed uploads"
+
 msgid "selected-items"
 msgstr "{{count}} Selected"
 
@@ -124,8 +130,14 @@ msgstr "You cannot move the file to trash because your account {{username}} does
 msgid "upload-failed"
 msgstr "Upload failed.  Please try again."
 
-msgid "upload-file"
-msgstr "Upload File"
+msgid "upload"
+msgstr "Upload"
+
+msgid "upload-files"
+msgstr "Upload Files"
+
+msgid "upload-folders"
+msgstr "Upload Folders"
 
 msgid "upload-inactive-subscription"
 msgstr "You cannot upload files because you don't have an active subscription.  Please purchase a subscription and try again."
@@ -135,6 +147,9 @@ msgstr "Upload Status"
 
 msgid "upload-uri-request-failed"
 msgstr "Upload failed.  Please try again."
+
+msgid "upload-uri-request-failed-mail"
+msgstr "Upload failed for {{username}}.  Please try again."
 
 msgid "upload-verify-company"
 msgstr "The upload failed because your account {{username}} does not have access to this company.  Please log in with a different account and try again."
