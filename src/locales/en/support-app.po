@@ -98,13 +98,13 @@ msgid "submission.contact.email.name"
 msgstr "Email"
 
 msgid "submission.contact.email.required"
-msgstr "Required."
+msgstr "Required"
 
 msgid "submission.contact.first-name.name"
 msgstr "First Name"
 
 msgid "submission.contact.first-name.required"
-msgstr "Required."
+msgstr "Required"
 
 msgid "submission.contact.info"
 msgstr "Can you review and if applicable update your contact details?"
@@ -113,13 +113,13 @@ msgid "submission.contact.last-name.name"
 msgstr "Last Name"
 
 msgid "submission.contact.last-name.required"
-msgstr "Required."
+msgstr "Required"
 
 msgid "submission.contact.phone.name"
 msgstr "Phone Number"
 
 msgid "submission.contact.phone.required"
-msgstr "Required."
+msgstr "Required"
 
 msgid "submission.contact.reach.email"
 msgstr "Email"
@@ -134,7 +134,7 @@ msgid "submission.description.name"
 msgstr "Description"
 
 msgid "submission.description.required"
-msgstr "Required."
+msgstr "Required"
 
 msgid "submission.display.name"
 msgstr "Display"
@@ -164,7 +164,7 @@ msgid "submission.subject.name"
 msgstr "Subject"
 
 msgid "submission.subject.required"
-msgstr "Required."
+msgstr "Required"
 
 msgid "submission.title"
 msgstr "Submit a New Ticket"
