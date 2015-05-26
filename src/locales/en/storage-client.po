@@ -79,6 +79,9 @@ msgstr "You cannot restore the file from trash because you don't have an active 
 msgid "restore-verify-company"
 msgstr "You cannot restore the file from trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
 
+msgid "retry-failed-uploads"
+msgstr "Retry failed uploads"
+
 msgid "select-file"
 msgstr "Select a File"
 
@@ -90,9 +93,6 @@ msgstr "Select a File"
 
 msgid "select-single-folder"
 msgstr "Select a Folder"
-
-msgid "retry-failed-uploads"
-msgstr "Retry failed uploads"
 
 msgid "selected-items"
 msgstr "{{count}} Selected"
@@ -127,11 +127,11 @@ msgstr "You cannot move the file to trash because you don't have an active subsc
 msgid "trash-verify-company"
 msgstr "You cannot move the file to trash because your account {{username}} doesn't have access to this company.  Please login with a different account and try again."
 
-msgid "upload-failed"
-msgstr "Upload failed.  Please try again."
-
 msgid "upload"
 msgstr "Upload"
+
+msgid "upload-failed"
+msgstr "Upload failed.  Please try again."
 
 msgid "upload-files"
 msgstr "Upload Files"

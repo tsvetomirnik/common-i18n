@@ -57,7 +57,7 @@
     },
     "name": {
       "name": "Name",
-      "required": "Required."
+      "required": "Required"
     },
     "player": {
       "browser": {
@@ -74,9 +74,15 @@
       },
       "ipAddress": "IP Address:",
       "operatingSystem": "Operating System:",
-      "orientation": "Orientation:",
+      "orientation": {
+        "0": "Landscape",
+        "90": "Portrait",
+        "180": "Landscape (flipped)",
+        "270": "Portrait (flipped)",
+        "name": "Rotation:"
+      },
       "playerVersion": "Player Version:",
-      "playerWarning": "No Player software is installed on the Display",
+      "playerWarning": "A Player has not been configured for this Display. To configure your Display click Download Player and install the software on the computer that will operate your Display. When the Player starts for the first time you will be prompted to enter the Display ID <span class=\"label label-default\">{{displayId}}</span> to link the Player with the Display that you have setup here.",
       "resolution": "Resolution:",
       "viewerVersion": "Viewer Version:"
     },

@@ -53,20 +53,20 @@
       "email": {
         "invalid": "Invalid Email Address.",
         "name": "Email",
-        "required": "Required."
+        "required": "Required"
       },
       "first-name": {
         "name": "First Name",
-        "required": "Required."
+        "required": "Required"
       },
       "info": "Can you review and if applicable update your contact details?",
       "last-name": {
         "name": "Last Name",
-        "required": "Required."
+        "required": "Required"
       },
       "phone": {
         "name": "Phone Number",
-        "required": "Required."
+        "required": "Required"
       },
       "reach": {
         "email": "Email",
@@ -76,7 +76,7 @@
     },
     "description": {
       "name": "Description",
-      "required": "Required."
+      "required": "Required"
     },
     "display": {
       "name": "Display",
@@ -92,7 +92,7 @@
     "subject": {
       "max-length": "150 Character Max Length.",
       "name": "Subject",
-      "required": "Required."
+      "required": "Required"
     },
     "title": "Submit a New Ticket"
   },

@@ -101,7 +101,7 @@ msgid "fields.name.name"
 msgstr "Name"
 
 msgid "fields.name.required"
-msgstr "Required."
+msgstr "Required"
 
 msgid "fields.player.browser.installed"
 msgstr "Installed Browser:"
@@ -133,14 +133,26 @@ msgstr "IP Address:"
 msgid "fields.player.operatingSystem"
 msgstr "Operating System:"
 
-msgid "fields.player.orientation"
-msgstr "Orientation:"
+msgid "fields.player.orientation.0"
+msgstr "Landscape"
+
+msgid "fields.player.orientation.180"
+msgstr "Landscape (flipped)"
+
+msgid "fields.player.orientation.270"
+msgstr "Portrait (flipped)"
+
+msgid "fields.player.orientation.90"
+msgstr "Portrait"
+
+msgid "fields.player.orientation.name"
+msgstr "Rotation:"
 
 msgid "fields.player.playerVersion"
 msgstr "Player Version:"
 
 msgid "fields.player.playerWarning"
-msgstr "No Player software is installed on the Display"
+msgstr "A Player has not been configured for this Display. To configure your Display click Download Player and install the software on the computer that will operate your Display. When the Player starts for the first time you will be prompted to enter the Display ID <span class="label label-default">{{displayId}}</span> to link the Player with the Display that you have setup here."
 
 msgid "fields.player.resolution"
 msgstr "Resolution:"
