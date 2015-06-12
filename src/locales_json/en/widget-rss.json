@@ -1,0 +1,24 @@
+{
+  "custom": "Custom Layout URL",
+  "heading-format": {
+    "heading": "Heading Format",
+    "text": "Heading Sample Text"
+  },
+  "queue": "Queue",
+  "refresh": "Refresh Interval",
+  "selection": {
+    "author": "Author",
+    "date": "Date",
+    "snippet": "Story Snippet",
+    "story": "Full Story",
+    "title": "Title"
+  },
+  "settings": "RSS Settings",
+  "stories": "Stories to Display",
+  "story-format": {
+    "heading": "Story Format",
+    "text": "Story Sample Text"
+  },
+  "transition": "Transition",
+  "transition-hold": "Transition Hold"
+}
