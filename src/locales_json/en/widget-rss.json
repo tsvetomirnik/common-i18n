@@ -9,6 +9,7 @@
   "selection": {
     "author": "Author",
     "date": "Date",
+    "heading": "Data Selection",
     "snippet": "Story Snippet",
     "story": "Full Story",
     "title": "Title"

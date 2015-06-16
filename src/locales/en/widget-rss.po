@@ -19,6 +19,9 @@ msgstr "Author"
 msgid "selection.date"
 msgstr "Date"
 
+msgid "selection.heading"
+msgstr "Data Selection"
+
 msgid "selection.snippet"
 msgstr "Story Snippet"
 
