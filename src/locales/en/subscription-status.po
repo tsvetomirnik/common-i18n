@@ -67,11 +67,11 @@ msgstr "Start Trial"
 msgid "subscribe"
 msgstr "Subscribe"
 
-msgid "subscribed"
-msgstr "Subscribed"
-
 msgid "subscribe-now"
 msgstr "Subscribe Now!"
+
+msgid "subscribed"
+msgstr "Subscribed"
 
 msgid "suspended"
 msgstr "Subscription Suspended"
@@ -87,3 +87,4 @@ msgstr "View Account"
 
 msgid "view-invoices"
 msgstr "View Invoices"
+

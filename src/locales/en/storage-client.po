@@ -162,3 +162,4 @@ msgstr "Uploading {{count}} files"
 
 msgid "uploading-one-file"
 msgstr "Uploading 1 file"
+
