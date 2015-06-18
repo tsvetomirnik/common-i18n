@@ -57,5 +57,7 @@
     "pixels": "px",
     "seconds": "sec"
   },
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
   "wednesday": "Wednesday"
 }
