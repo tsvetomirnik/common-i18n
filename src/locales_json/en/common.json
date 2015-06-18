@@ -45,6 +45,8 @@
   "saving": "Saving",
   "select": "Select",
   "sep": "Sep",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
   "sunday": "Sunday",
   "thursday": "Thursday",
   "tuesday": "Tuesday",
@@ -57,7 +59,5 @@
     "pixels": "px",
     "seconds": "sec"
   },
-  "signIn": "Sign In",
-  "signUp": "Sign Up",
   "wednesday": "Wednesday"
 }
