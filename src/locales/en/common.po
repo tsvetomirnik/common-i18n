@@ -124,6 +124,12 @@ msgstr "Select"
 msgid "sep"
 msgstr "Sep"
 
+msgid "signIn"
+msgstr "Sign In"
+
+msgid "signUp"
+msgstr "Sign Up"
+
 msgid "sunday"
 msgstr "Sunday"
 
