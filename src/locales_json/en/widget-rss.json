@@ -1,5 +1,13 @@
 {
+  "author-format": {
+    "heading": "Author Format",
+    "text": "Author Sample Text"
+  },
   "custom": "Custom Layout URL",
+  "date-format": {
+    "heading": "Date Format",
+    "text": "Date Sample Text"
+  },
   "heading-format": {
     "heading": "Heading Format",
     "text": "Heading Sample Text"

@@ -1,5 +1,17 @@
+msgid "author-format.heading"
+msgstr "Author Format"
+
+msgid "author-format.text"
+msgstr "Author Sample Text"
+
 msgid "custom"
 msgstr "Custom Layout URL"
+
+msgid "date-format.heading"
+msgstr "Date Format"
+
+msgid "date-format.text"
+msgstr "Date Sample Text"
 
 msgid "heading-format.heading"
 msgstr "Heading Format"
