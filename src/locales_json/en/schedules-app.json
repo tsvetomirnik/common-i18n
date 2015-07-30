@@ -1,6 +1,7 @@
 {
   "actions": {
-    "new": "Add Schedule"
+    "new": "Add Schedule",
+    "preview": "Preview"
   },
   "add": {
     "error": "Failed to create Schedule!"
@@ -15,11 +16,17 @@
   "fields": {
     "name": {
       "name": "Name",
+      "placeholder": "Schedule Name",
       "required": "Required"
-    }
+    },
+    "timeline": "Timeline"
+  },
+  "landing": {
+    "manageSchedulesText": "Schedule delivery of HTML content to your digital signage displays, anywhere, anytime."
   },
   "list": {
     "empty": "You haven't created any Schedules yet",
+    "error": "Failed to load schedules. Please try again later.",
     "filter": {
       "filters": "Filters",
       "placeholder": "Search for Schedules"
@@ -29,6 +36,36 @@
       "name": "Name"
     },
     "no-results": "Your search didn't return any results"
+  },
+  "playlist": {
+    "add-playlist-item": "Add Playlist Item",
+    "empty": "You haven't added any items to your Playlist yet.",
+    "item": {
+      "distribution": "Distribution",
+      "duration": "Duration (seconds)",
+      "name": "Name",
+      "presentation": "Presentation:",
+      "required": "Required",
+      "title": "Playlist Item",
+      "url": "URL"
+    },
+    "title": "Playlist"
+  },
+  "presentation-modal": {
+    "presentation-list": {
+      "heading": {
+        "name": "Name",
+        "status": "Status"
+      },
+      "status": {
+        "published": "Published",
+        "revised": "Revised"
+      }
+    },
+    "search": {
+      "placeholder": "Search Presentations"
+    },
+    "title": "Select Presentation"
   },
   "title": "Schedules"
 }
