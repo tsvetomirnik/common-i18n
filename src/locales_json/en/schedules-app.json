@@ -44,7 +44,7 @@
       "distribution": "Distribution",
       "duration": "Duration (seconds)",
       "name": "Name",
-      "presentation": "Presentation:",
+      "presentation": "Presentation",
       "required": "Required",
       "title": "Playlist Item",
       "url": "URL"
