@@ -74,7 +74,7 @@ msgid "playlist.item.name"
 msgstr "Name"
 
 msgid "playlist.item.presentation"
-msgstr "Presentation:"
+msgstr "Presentation"
 
 msgid "playlist.item.required"
 msgstr "Required"
