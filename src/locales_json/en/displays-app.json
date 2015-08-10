@@ -94,10 +94,7 @@
     }
   },
   "landing": {
-    "displaysAppExplanationText": "Displays is where you can add, remove, configure, connect, disconnect and restart any display in your network.",
-    "manageDisplaysText": "Manage an unlimited number of digital signage displays anywhere in the world.",
-    "signInText": "if you already have an account.",
-    "signUpText": "for free, no credit card required, or"
+    "manageDisplaysText": "Manage and monitor your digital signage displays, anywhere, anytime."
   },
   "list": {
     "empty": "You haven't created any Displays yet",
