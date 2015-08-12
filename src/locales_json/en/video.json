@@ -3,6 +3,9 @@
     "label": "Auto Play"
   },
   "heading": "Video",
+  "loop": {
+    "label": "Loop"
+  },
   "settings": "Video Settings",
   "volume": {
     "label": "Volume"
