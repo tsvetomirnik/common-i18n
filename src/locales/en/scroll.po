@@ -19,6 +19,12 @@ msgstr "Pause"
 msgid "pause.tooltip"
 msgstr "Number of seconds to pause after touch or the end of the list is reached"
 
+msgid "pud.label"
+msgstr "PUD Failover"
+
+msgid "pud.tooltip"
+msgstr "Duration that the content should be shown for in the event of no scrolling or insufficient content to scroll"
+
 msgid "speed.fast"
 msgstr "Fast"
 
