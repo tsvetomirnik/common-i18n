@@ -130,6 +130,9 @@ msgstr "Using any option other than Auto Upgrade may result in Presentation Cont
 msgid "fields.player.ipAddress"
 msgstr "IP Address:"
 
+msgid "fields.player.localIpAddress"
+msgstr "Local IP Address:"
+
 msgid "fields.player.operatingSystem"
 msgstr "Operating System:"
 
