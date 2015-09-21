@@ -73,6 +73,7 @@
         }
       },
       "ipAddress": "IP Address:",
+      "localIpAddress": "Local IP Address:",
       "operatingSystem": "Operating System:",
       "orientation": {
         "0": "Landscape",
