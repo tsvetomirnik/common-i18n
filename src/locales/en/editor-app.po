@@ -169,6 +169,15 @@ msgstr "View Account"
 msgid "title"
 msgstr "Editor"
 
+msgid "workspace.legacyWarning.confirmation"
+msgstr "Open with previous Editor"
+
+msgid "workspace.legacyWarning.message"
+msgstr "This Presentation contains Gadgets, Video Items, Image Items, HTML Items or Text Items that are not support in this Editor.<br/>To modify this Presentation please use the previous version of the Editor."
+
+msgid "workspace.legacyWarning.title"
+msgstr "Deprecated Items"
+
 msgid "workspace.sidebar.edit.playlist"
 msgstr "Playlist"
 
