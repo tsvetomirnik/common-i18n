@@ -88,6 +88,15 @@ msgstr "Content"
 msgid "playlistItem.duration"
 msgstr "Duration"
 
+msgid "playlistItem.legacyWarningPart1"
+msgstr "This is a Gadget and it is not supported in this Editor. To configure a Gadget please use the"
+
+msgid "playlistItem.legacyWarningPart2"
+msgstr "previous version"
+
+msgid "playlistItem.legacyWarningPart3"
+msgstr "of the Editor."
+
 msgid "playlistItem.name"
 msgstr "Name"
 
