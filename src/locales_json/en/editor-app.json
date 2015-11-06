@@ -68,7 +68,12 @@
       "resolution": "Resolution",
       "width": "Width"
     },
-    "title": "Presentation Properties"
+    "title": "Presentation Properties",
+    "warnings": {
+      "duplicate": "Duplicate Placeholder names are not allowed",
+      "invalid": "Placeholder name contains invalid character",
+      "required": "Required"
+    }
   },
   "storeProduct": {
     "add": "Add",
@@ -87,8 +92,8 @@
   "title": "Editor",
   "workspace": {
     "legacyWarning": {
-      "confirmation": "Open with previous Editor",
-      "message": "This Presentation contains Gadgets, Video Items, Image Items, HTML Items or Text Items that are not support in this Editor.<br/>To modify this Presentation please use the previous version of the Editor.",
+      "confirmation": "Open with Previous Editor",
+      "message": "This Presentation contains Gadgets, Video Items, Image Items, HTML Items or Text Items that are not supported in this Editor.<br/>To modify this Presentation please use the previous version of the Editor.",
       "title": "Deprecated Items"
     },
     "sidebar": {
