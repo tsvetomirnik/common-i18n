@@ -151,6 +151,27 @@ msgstr "Width"
 msgid "properties.title"
 msgstr "Presentation Properties"
 
+msgid "properties.transition.fade"
+msgstr "Fade"
+
+msgid "properties.transition.label"
+msgstr "Transition"
+
+msgid "properties.transition.none"
+msgstr "None"
+
+msgid "properties.transition.slideDown"
+msgstr "Slide Down"
+
+msgid "properties.transition.slideLeft"
+msgstr "Slide Left"
+
+msgid "properties.transition.slideRight"
+msgstr "Slide Right"
+
+msgid "properties.transition.slideUp"
+msgstr "Slide Up"
+
 msgid "properties.warnings.duplicate"
 msgstr "Duplicate Placeholder names are not allowed"
 

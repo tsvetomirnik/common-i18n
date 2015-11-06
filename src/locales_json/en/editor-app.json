@@ -69,6 +69,15 @@
       "width": "Width"
     },
     "title": "Presentation Properties",
+    "transition": {
+      "fade": "Fade",
+      "label": "Transition",
+      "none": "None",
+      "slideDown": "Slide Down",
+      "slideLeft": "Slide Left",
+      "slideRight": "Slide Right",
+      "slideUp": "Slide Up"
+    },
     "warnings": {
       "duplicate": "Duplicate Placeholder names are not allowed",
       "invalid": "Placeholder name contains invalid character",
