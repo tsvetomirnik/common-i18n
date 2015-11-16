@@ -227,7 +227,7 @@ msgid "workspace.legacyWarning.confirmation"
 msgstr "Open with Previous Editor"
 
 msgid "workspace.legacyWarning.message"
-msgstr "This Presentation contains Gadgets, Video Items, Image Items, HTML Items or Text Items that are not supported in this Editor.<br/>To modify this Presentation please use the previous version of the Editor."
+msgstr "This Presentation contains Gadgets, Video Items, Image Items, HTML Items, Text Items or Presentation Items that are not supported in this Editor.<br/>To modify this Presentation please use the previous version of the Editor."
 
 msgid "workspace.legacyWarning.title"
 msgstr "Deprecated Items"
