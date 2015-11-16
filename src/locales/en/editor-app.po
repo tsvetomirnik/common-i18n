@@ -1,6 +1,15 @@
 msgid "add.error"
 msgstr "Failed to create Presentation!"
 
+msgid "addWidget.settingsUrl"
+msgstr "Settings URL"
+
+msgid "addWidget.title"
+msgstr "Add Widget by URL"
+
+msgid "addWidget.url"
+msgstr "URL"
+
 msgid "details.deleteTitle"
 msgstr "Deleting Presentation"
 
@@ -121,6 +130,9 @@ msgstr "Select"
 msgid "playlistItem.title"
 msgstr "Edit Playlist Item"
 
+msgid "playlistItem.widgetByUrl"
+msgstr "Widget By URL"
+
 msgid "properties.labels.background"
 msgstr "Background"
 
@@ -177,6 +189,9 @@ msgstr "Duplicate Placeholder names are not allowed"
 
 msgid "properties.warnings.invalid"
 msgstr "Placeholder name contains invalid character"
+
+msgid "properties.warnings.invalidUrl"
+msgstr "Invalid URL"
 
 msgid "properties.warnings.required"
 msgstr "Required"
