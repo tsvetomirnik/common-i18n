@@ -1,10 +1,11 @@
 {
-  "autoplay": {
-    "label": "Auto Play"
+  "options": {
+    "autoplay": "Auto Play Video on Startup",
+    "controls": "Show Video Controls",
+    "label": "Video Options"
   },
-  "heading": "Video",
-  "loop": {
-    "label": "Loop"
+  "pause": {
+    "label": "If video is paused resume playing after"
   },
   "settings": "Video Settings",
   "url": {
