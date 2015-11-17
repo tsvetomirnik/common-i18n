@@ -1,11 +1,14 @@
-msgid "autoplay.label"
-msgstr "Auto Play"
+msgid "options.autoplay"
+msgstr "Auto Play Video on Startup"
 
-msgid "heading"
-msgstr "Video"
+msgid "options.controls"
+msgstr "Show Video Controls"
 
-msgid "loop.label"
-msgstr "Loop"
+msgid "options.label"
+msgstr "Video Options"
+
+msgid "pause.label"
+msgstr "If video is paused resume playing after"
 
 msgid "settings"
 msgstr "Video Settings"
