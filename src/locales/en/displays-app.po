@@ -4,6 +4,192 @@ msgstr "Add Display"
 msgid "add.error"
 msgstr "Failed to create display!"
 
+msgid "alerts.acceptTerms"
+msgstr "Please accept Terms and Conditions to enable Alerts"
+
+msgid "alerts.authenticationName"
+msgstr "Authentication Name"
+
+msgid "alerts.authenticationPassword"
+msgstr "Authentication Password"
+
+msgid "alerts.categories.cbrne"
+msgstr "Chemical, Biological, Radiological, Nuclear and Explosives"
+
+msgid "alerts.categories.env"
+msgstr "Environment"
+
+msgid "alerts.categories.fire"
+msgstr "Fire"
+
+msgid "alerts.categories.geo"
+msgstr "Geophysical"
+
+msgid "alerts.categories.health"
+msgstr "Health"
+
+msgid "alerts.categories.infra"
+msgstr "Infrastructure"
+
+msgid "alerts.categories.met"
+msgstr "Meteorological"
+
+msgid "alerts.categories.other"
+msgstr "Other"
+
+msgid "alerts.categories.rescue"
+msgstr "Rescue"
+
+msgid "alerts.categories.safety"
+msgstr "Safety"
+
+msgid "alerts.categories.security"
+msgstr "Security"
+
+msgid "alerts.categories.transport"
+msgstr "Transport"
+
+msgid "alerts.category"
+msgstr "Category"
+
+msgid "alerts.certainties.likely"
+msgstr "Likely"
+
+msgid "alerts.certainties.observed"
+msgstr "Observed"
+
+msgid "alerts.certainties.possible"
+msgstr "Possible"
+
+msgid "alerts.certainties.unknown"
+msgstr "Unknown"
+
+msgid "alerts.certainties.unlikely"
+msgstr "Unlikely"
+
+msgid "alerts.certainty"
+msgstr "Certainty"
+
+msgid "alerts.code"
+msgstr "Code"
+
+msgid "alerts.defaultExpiry"
+msgstr "Default Expiry"
+
+msgid "alerts.handling"
+msgstr "Handling"
+
+msgid "alerts.hideFilters"
+msgstr "Hide Filters"
+
+msgid "alerts.iAccept"
+msgstr "I accept the terms and conditions."
+
+msgid "alerts.minutes"
+msgstr "Minutes"
+
+msgid "alerts.presentation"
+msgstr "Presentation"
+
+msgid "alerts.reset"
+msgstr "Reset"
+
+msgid "alerts.sender"
+msgstr "Sender"
+
+msgid "alerts.severities.extreme"
+msgstr "Extreme"
+
+msgid "alerts.severities.minor"
+msgstr "Minor"
+
+msgid "alerts.severities.moderate"
+msgstr "Moderate"
+
+msgid "alerts.severities.severe"
+msgstr "Severe"
+
+msgid "alerts.severities.unknown"
+msgstr "Unknown"
+
+msgid "alerts.severity"
+msgstr "Severity"
+
+msgid "alerts.showFilters"
+msgstr "Show Filters"
+
+msgid "alerts.status"
+msgstr "Status"
+
+msgid "alerts.statuses.actual"
+msgstr "Actual"
+
+msgid "alerts.statuses.draft"
+msgstr "Draft"
+
+msgid "alerts.statuses.exercise"
+msgstr "Exercise"
+
+msgid "alerts.statuses.system"
+msgstr "System"
+
+msgid "alerts.statuses.test"
+msgstr "Test"
+
+msgid "alerts.terms"
+msgstr "The Alert Service is based upon the Common Alert Protocol version 1.2. This standard does not require authentication or a secure connection, which could result in somebody sending false Alerts by pretending to be your Alerts provider. We highly recommend that, at the very least, you have your Alerts provider connect to our service with HTTPS, not HTTP, and that you require an Authentication Name and Password for that connection. That password should be complex and changed regularly. You should test your Alerts system at least weekly. You have read and understood this disclaimer and you agree that Rise Vision cannot be responsible for the erroneous showing of Alert Messages on your Displays."
+
+msgid "alerts.textFields.description"
+msgstr "Description"
+
+msgid "alerts.textFields.headline"
+msgstr "Headline"
+
+msgid "alerts.textFields.instruction"
+msgstr "Instruction"
+
+msgid "alerts.textToShow"
+msgstr "Alert Text To Show"
+
+msgid "alerts.title"
+msgstr "Alerts"
+
+msgid "alerts.turnOff"
+msgstr "Turn Off Alerts"
+
+msgid "alerts.turnOn"
+msgstr "Turn On Alerts"
+
+msgid "alerts.turnOnShort"
+msgstr "Turn On"
+
+msgid "alerts.turnedOffWarning"
+msgstr "Alerts Are Turned Off and Won't Be Sent to Your Target Displays."
+
+msgid "alerts.urgencies.expected"
+msgstr "Expected"
+
+msgid "alerts.urgencies.future"
+msgstr "Future"
+
+msgid "alerts.urgencies.immediate"
+msgstr "Immediate"
+
+msgid "alerts.urgencies.past"
+msgstr "Past"
+
+msgid "alerts.urgencies.unknown"
+msgstr "Unknown"
+
+msgid "alerts.urgency"
+msgstr "Urgency"
+
+msgid "alerts.viewTerms"
+msgstr "View Terms and Conditions"
+
+msgid "alerts.webServiceURL"
+msgstr "Web Service URL"
+
 msgid "details.deleteTitle"
 msgstr "Deleting Display"
 
