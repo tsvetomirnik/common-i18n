@@ -180,11 +180,13 @@
       "placeholder": "Search for Displays"
     },
     "heading": {
+      "address": "Address",
       "lastConnection": "Last Connection",
       "name": "Name",
       "status": "Status"
     },
-    "no-results": "Your search didn't return any results"
+    "no-results": "Your search didn't return any results",
+    "searchNotification": "Search results may include Displays that belong to your sub-companies."
   },
   "title": "Displays"
 }

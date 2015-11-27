@@ -373,6 +373,9 @@ msgstr "Filters"
 msgid "list.filter.placeholder"
 msgstr "Search for Displays"
 
+msgid "list.heading.address"
+msgstr "Address"
+
 msgid "list.heading.lastConnection"
 msgstr "Last Connection"
 
@@ -384,6 +387,9 @@ msgstr "Status"
 
 msgid "list.no-results"
 msgstr "Your search didn't return any results"
+
+msgid "list.searchNotification"
+msgstr "Search results may include Displays that belong to your sub-companies."
 
 msgid "title"
 msgstr "Displays"
