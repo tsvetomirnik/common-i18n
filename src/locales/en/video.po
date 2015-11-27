@@ -13,14 +13,11 @@ msgstr "If video is paused resume playing after"
 msgid "settings"
 msgstr "Video Settings"
 
-msgid "url.custom"
-msgstr "Custom URL"
-
 msgid "url.file"
-msgstr "Single Video in Rise Storage"
+msgstr "Single Video"
 
 msgid "url.folder"
-msgstr "Folder of Video(s) in Rise Storage"
+msgstr "Folder of Video(s)"
 
 msgid "url.label"
 msgstr "How do you want to show your video(s)?"

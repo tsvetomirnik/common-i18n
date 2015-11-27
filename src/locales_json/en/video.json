@@ -9,9 +9,8 @@
   },
   "settings": "Video Settings",
   "url": {
-    "custom": "Custom URL",
-    "file": "Single Video in Rise Storage",
-    "folder": "Folder of Video(s) in Rise Storage",
+    "file": "Single Video",
+    "folder": "Folder of Video(s)",
     "label": "How do you want to show your video(s)?"
   },
   "volume": {
