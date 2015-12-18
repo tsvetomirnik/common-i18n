@@ -124,6 +124,12 @@ msgstr "Rise Vision needs access to your Google account to verify who you are"
 msgid "restore"
 msgstr "Restore"
 
+msgid "safeDelete.message"
+msgstr "Please type DELETE to confirm. This operation cannot be undone!"
+
+msgid "safeDelete.title"
+msgstr "Are you sure you want to delete?"
+
 msgid "saturday"
 msgstr "Saturday"
 
