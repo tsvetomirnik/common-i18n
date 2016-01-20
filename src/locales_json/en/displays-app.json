@@ -155,6 +155,10 @@
           "warning": "Using any option other than Auto Upgrade may result in Presentation Content failures."
         }
       },
+      "install": {
+        "heading": "Install Rise Player",
+        "id": "Your Display ID is"
+      },
       "ipAddress": "IP Address:",
       "localIpAddress": "Local IP Address:",
       "operatingSystem": "Operating System:",

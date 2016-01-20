@@ -328,6 +328,12 @@ msgstr "User Managed"
 msgid "fields.player.browser.upgrade.warning"
 msgstr "Using any option other than Auto Upgrade may result in Presentation Content failures."
 
+msgid "fields.player.install.heading"
+msgstr "Install Rise Player"
+
+msgid "fields.player.install.id"
+msgstr "Your Display ID is"
+
 msgid "fields.player.ipAddress"
 msgstr "IP Address:"
 
