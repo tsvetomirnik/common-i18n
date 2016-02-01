@@ -98,8 +98,25 @@
   },
   "storeProduct": {
     "add": "Add",
+    "content": {
+      "search": "Search for Content",
+      "title": "Add Content"
+    },
     "details": "Details",
-    "title": "Select Content"
+    "productTags": {
+      "all": "All",
+      "education": "Education",
+      "events": "Events",
+      "hospital": "Hospital",
+      "religious": "Religious",
+      "restaurants": "Restaurants",
+      "retail": "Retail",
+      "sports": "Sports"
+    },
+    "templates": {
+      "search": "Search for Templates",
+      "title": "Add a New Presentation"
+    }
   },
   "subscription": {
     "buy": "Buy",
