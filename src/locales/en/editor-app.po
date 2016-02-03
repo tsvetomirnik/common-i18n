@@ -244,8 +244,17 @@ msgstr "Retail"
 msgid "storeProduct.productTags.worship"
 msgstr "Worship"
 
+msgid "storeProduct.templates.blank"
+msgstr "Blank"
+
+msgid "storeProduct.templates.cantFind"
+msgstr "Can’t find what you’re looking for?"
+
 msgid "storeProduct.templates.search"
 msgstr "Search for Templates"
+
+msgid "storeProduct.templates.suggest"
+msgstr "Suggest a Template!"
 
 msgid "storeProduct.templates.title"
 msgstr "Add a New Presentation"
