@@ -105,13 +105,14 @@
     "details": "Details",
     "productTags": {
       "all": "All",
+      "business": "Business",
       "education": "Education",
-      "events": "Events",
-      "hospital": "Hospital",
-      "religious": "Religious",
-      "restaurants": "Restaurants",
+      "healthcare": "Healthcare",
+      "hospitality": "Hospitality",
+      "lifestyle": "Lifestyle",
+      "other": "Other",
       "retail": "Retail",
-      "sports": "Sports"
+      "worship": "Worship"
     },
     "templates": {
       "search": "Search for Templates",
