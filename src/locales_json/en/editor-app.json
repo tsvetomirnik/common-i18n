@@ -115,7 +115,10 @@
       "worship": "Worship"
     },
     "templates": {
+      "blank": "Blank",
+      "cantFind": "Can’t find what you’re looking for?",
       "search": "Search for Templates",
+      "suggest": "Suggest a Template!",
       "title": "Add a New Presentation"
     }
   },
