@@ -25,12 +25,6 @@ msgstr "Show Timestamp"
 msgid "data-selection.showTitle"
 msgstr "Show Title"
 
-msgid "date-format.heading"
-msgstr "Date Style"
-
-msgid "date-format.text"
-msgstr "Date Style Sample Text"
-
 msgid "item.itemsToShow"
 msgstr "Items to Show"
 
@@ -57,6 +51,12 @@ msgstr "Description Style"
 
 msgid "story-format.text"
 msgstr "Description Style Sample Text"
+
+msgid "timestamp-format.heading"
+msgstr "Timestamp Style"
+
+msgid "timestamp-format.text"
+msgstr "Timestamp Style Sample Text"
 
 msgid "title-format.heading"
 msgstr "Title Style"
