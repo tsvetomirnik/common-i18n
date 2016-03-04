@@ -1,4 +1,8 @@
 {
+  "author-format": {
+    "heading": "Author Style",
+    "text": "Author Style Sample Text"
+  },
   "data-selection": {
     "heading": "Data Selection",
     "showAuthor": "Show Author",
@@ -7,6 +11,10 @@
     "showImage": "Show Image",
     "showTimestamp": "Show Timestamp",
     "showTitle": "Show Title"
+  },
+  "date-format": {
+    "heading": "Date Style",
+    "text": "Date Style Sample Text"
   },
   "item": {
     "itemsToShow": "Items to Show",
