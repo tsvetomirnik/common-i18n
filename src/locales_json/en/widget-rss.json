@@ -12,10 +12,6 @@
     "showTimestamp": "Show Timestamp",
     "showTitle": "Show Title"
   },
-  "date-format": {
-    "heading": "Date Style",
-    "text": "Date Style Sample Text"
-  },
   "item": {
     "itemsToShow": "Items to Show",
     "maxItemsInQueue": "Max Items in Queue"
@@ -32,6 +28,10 @@
   "story-format": {
     "heading": "Description Style",
     "text": "Description Style Sample Text"
+  },
+  "timestamp-format": {
+    "heading": "Timestamp Style",
+    "text": "Timestamp Style Sample Text"
   },
   "title-format": {
     "heading": "Title Style",
