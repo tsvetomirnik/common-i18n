@@ -38,5 +38,9 @@
   "title-format": {
     "heading": "Title Style",
     "text": "Title Style Sample Text"
+  },
+  "warning": {
+    "anchor": "here",
+    "message": "Please note that errors were detected in the feed URL provided that may affect how it is shown in your presentation. You can view a summary of the errors detected"
   }
 }
