@@ -1,0 +1,15 @@
+msgid "refresh.label"
+msgstr "Refresh Interval"
+
+msgid "refresh.none"
+msgstr "Never Refresh"
+
+msgid "settings"
+msgstr "Web Page Settings"
+
+msgid "warning.anchor"
+msgstr "X-Frame-Options"
+
+msgid "warning.message"
+msgstr "The owner of the Web Page at the URL provided does not allow the page to be embedded within an iFrame. If possible, please contact the Web Page owner to discuss"
+
