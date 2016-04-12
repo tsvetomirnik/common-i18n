@@ -4,6 +4,21 @@ msgstr "Refresh Interval"
 msgid "refresh.none"
 msgstr "Never Refresh"
 
+msgid "region.heading"
+msgstr "Region"
+
+msgid "region.horizontal"
+msgstr "Horizontal Scroll"
+
+msgid "region.page"
+msgstr "Show Entire Page"
+
+msgid "region.region"
+msgstr "Show a Region"
+
+msgid "region.vertical"
+msgstr "Vertical Scroll"
+
 msgid "settings"
 msgstr "Web Page Settings"
 
