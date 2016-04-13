@@ -1,3 +1,12 @@
+msgid "interactivity.heading"
+msgstr "Interactivity"
+
+msgid "interactivity.interactive"
+msgstr "Allow Interaction"
+
+msgid "interactivity.scrollbars"
+msgstr "Scrollbars Enabled"
+
 msgid "refresh.label"
 msgstr "Refresh Interval"
 
