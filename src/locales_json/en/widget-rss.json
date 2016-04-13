@@ -1,4 +1,7 @@
 {
+  "authentication-warning": {
+    "message": "The feed at the URL provided cannot be shown because it is protected and requires authentication"
+  },
   "author-format": {
     "heading": "Author Style",
     "text": "Author Style Sample Text"
