@@ -28,3 +28,6 @@ msgstr "X-Frame-Options"
 msgid "warning.message"
 msgstr "The owner of the Web Page at the URL provided does not allow the page to be embedded within an iFrame. If possible, please contact the Web Page owner to discuss"
 
+msgid "zoom.heading"
+msgstr "Zoom"
+
