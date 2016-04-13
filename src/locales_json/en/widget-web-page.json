@@ -1,4 +1,9 @@
 {
+  "interactivity": {
+    "heading": "Interactivity",
+    "interactive": "Allow Interaction",
+    "scrollbars": "Scrollbars Enabled"
+  },
   "refresh": {
     "label": "Refresh Interval",
     "none": "Never Refresh"
