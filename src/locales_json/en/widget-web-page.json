@@ -16,6 +16,9 @@
     "vertical": "Vertical Scroll"
   },
   "settings": "Web Page Settings",
+  "unload": {
+    "label": "Unload Web Page when not visible in Presentation (recommended)"
+  },
   "warning": {
     "anchor": "X-Frame-Options",
     "message": "The owner of the Web Page at the URL provided does not allow the page to be embedded within an iFrame. If possible, please contact the Web Page owner to discuss"

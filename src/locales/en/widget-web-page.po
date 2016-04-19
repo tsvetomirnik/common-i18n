@@ -31,6 +31,9 @@ msgstr "Vertical Scroll"
 msgid "settings"
 msgstr "Web Page Settings"
 
+msgid "unload.label"
+msgstr "Unload Web Page when not visible in Presentation (recommended)"
+
 msgid "warning.anchor"
 msgstr "X-Frame-Options"
 
