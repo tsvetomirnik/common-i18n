@@ -47,7 +47,7 @@ msgid "layout.heading"
 msgstr "Layout"
 
 msgid "not-a-feed-warning.message"
-msgstr "The feed at the URL provided cannot be shown because it is not an RSS feed"
+msgstr "The URL provided is not an RSS feed"
 
 msgid "separator.heading"
 msgstr "Separator"
