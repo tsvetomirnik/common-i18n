@@ -16,9 +16,24 @@ msgstr "Enter Spreadsheet Key"
 msgid "spreadsheet.preview"
 msgstr "Open Spreadsheet"
 
+msgid "spreadsheet.publish.text1"
+msgstr "To use this Google Spreadsheet it must be published to the web. To publish, open the Google Spreadsheet and select"
+
+msgid "spreadsheet.publish.text2"
+msgstr "File > Publish to the web"
+
+msgid "spreadsheet.publish.text3"
+msgstr "then click"
+
+msgid "spreadsheet.publish.text4"
+msgstr "Publish"
+
 msgid "spreadsheet.range.end"
 msgstr "Ending Cell (Bottom Right)"
 
 msgid "spreadsheet.range.start"
 msgstr "Starting Cell (Top Left)"
+
+msgid "spreadsheet.retry"
+msgstr "Check Again"
 
