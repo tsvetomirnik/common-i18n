@@ -1,6 +1,10 @@
 {
   "settings": "Google Spreadsheet Settings",
   "spreadsheet": {
+    "key": {
+      "select": "Enter Spreadsheet Key",
+      "placeholder": "Enter your Key"
+    },
     "cells": {
       "range": "Show Range",
       "sheet": "Show Entire Sheet"
