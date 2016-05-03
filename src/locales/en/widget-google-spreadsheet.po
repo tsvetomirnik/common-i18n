@@ -34,6 +34,9 @@ msgstr "Ending Cell (Bottom Right)"
 msgid "spreadsheet.range.start"
 msgstr "Starting Cell (Top Left)"
 
+msgid "spreadsheet.refresh"
+msgstr "Data Refresh Interval"
+
 msgid "spreadsheet.retry"
 msgstr "Check Again"
 
