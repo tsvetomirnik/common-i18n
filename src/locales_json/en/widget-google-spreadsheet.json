@@ -21,6 +21,7 @@
       "start": "Starting Cell (Top Left)"
     },
     "refresh": "Data Refresh Interval",
-    "retry": "Check Again"
+    "retry": "Check Again",
+    "sheet": "Select Worksheet"
   }
 }
