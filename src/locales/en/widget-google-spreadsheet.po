@@ -40,3 +40,6 @@ msgstr "Data Refresh Interval"
 msgid "spreadsheet.retry"
 msgstr "Check Again"
 
+msgid "spreadsheet.sheet"
+msgstr "Select Worksheet"
+
