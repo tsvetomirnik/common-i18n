@@ -5,6 +5,7 @@
       "range": "Show Range",
       "sheet": "Show Entire Sheet"
     },
+    "first-row-as-header": "Use First Row as Header",
     "key": {
       "placeholder": "Enter your Key",
       "select": "Enter Spreadsheet Key"
