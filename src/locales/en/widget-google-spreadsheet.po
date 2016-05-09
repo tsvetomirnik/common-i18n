@@ -1,3 +1,15 @@
+msgid "format.evenRow"
+msgstr "Even Row Color"
+
+msgid "format.heading"
+msgstr "Format"
+
+msgid "format.oddRow"
+msgstr "Odd Row Color"
+
+msgid "format.spreadsheet"
+msgstr "Spreadsheet Format"
+
 msgid "settings"
 msgstr "Google Spreadsheet Settings"
 

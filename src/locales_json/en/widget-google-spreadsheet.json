@@ -1,4 +1,10 @@
 {
+  "format": {
+    "evenRow": "Even Row Color",
+    "heading": "Format",
+    "oddRow": "Odd Row Color",
+    "spreadsheet": "Spreadsheet Format"
+  },
   "settings": "Google Spreadsheet Settings",
   "spreadsheet": {
     "cells": {
