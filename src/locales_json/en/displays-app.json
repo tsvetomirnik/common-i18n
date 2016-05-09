@@ -117,23 +117,23 @@
       "useCompany": "Use Company Address"
     },
     "controls": {
-      "download": "Download Player",
+      "download": "Download Rise Player",
       "error": "Error:",
-      "howto": "How do I show Presentations on my device?",
+      "howto": "How do I show Presentations and Web Pages on my Media Player?",
       "reboot": {
-        "name": "Reboot Player",
+        "name": "Reboot Media Player",
         "success": "Reboot signal sent",
         "title": "Rebooting Display",
-        "warning": "The Rise Player on the Display's Computer will reboot and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
+        "warning": "The Rise Player on the Display's Media Player will reboot and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
       },
       "restart": {
-        "name": "Restart Player",
+        "name": "Restart Rise Player",
         "success": "Restart signal sent",
         "title": "Restarting Display",
-        "warning": "The Rise Player on the Display's Computer will restart and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
+        "warning": "The Rise Player on the Display's Media Player will restart and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
       }
     },
-    "id": "Display Id:",
+    "id": "Display ID:",
     "monitor": {
       "name": "Monitor",
       "warning": "No Monitoring Emails have been set up for your Company. Please go to your Company Settings to configure."
@@ -166,8 +166,8 @@
         "270": "Portrait (flipped)",
         "name": "Rotation:"
       },
-      "playerVersion": "Player Version:",
-      "playerWarning": "A Player has not been configured for your Display. To configure your Display, select your Operating System below and install the software <b>on the device</b> that will operate your Display. When the Player starts for the first time you will be prompted to enter the Display ID (above) to link the Player with the Display that you have setup here. Further setup details can be <a href=\"http://help.risevision.com/user/create-a-display/\" target=\"_blank\">found here</a>.",
+      "playerVersion": "Rise Player Version:",
+      "playerWarning": "A Media Player has not been configured for your Display. To configure your Display, select your Operating System below and install Rise Player on the Media Player (a dedicated computer). When Rise Player starts for the first time you will be prompted to enter the Display ID (above) to link the Media Player with the Display that you have setup here. Further setup details can be <a href=\\\"http://help.risevision.com/user/create-a-display/\\\" target=\\\"_blank\\\">found here</a>.",
       "resolution": "Resolution:",
       "viewerVersion": "Viewer Version:"
     },

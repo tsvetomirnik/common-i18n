@@ -257,16 +257,16 @@ msgid "fields.address.useCompany"
 msgstr "Use Company Address"
 
 msgid "fields.controls.download"
-msgstr "Download Player"
+msgstr "Download Rise Player"
 
 msgid "fields.controls.error"
 msgstr "Error:"
 
 msgid "fields.controls.howto"
-msgstr "How do I show Presentations on my device?"
+msgstr "How do I show Presentations and Web Pages on my Media Player?"
 
 msgid "fields.controls.reboot.name"
-msgstr "Reboot Player"
+msgstr "Reboot Media Player"
 
 msgid "fields.controls.reboot.success"
 msgstr "Reboot signal sent"
@@ -275,10 +275,10 @@ msgid "fields.controls.reboot.title"
 msgstr "Rebooting Display"
 
 msgid "fields.controls.reboot.warning"
-msgstr "The Rise Player on the Display's Computer will reboot and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
+msgstr "The Rise Player on the Display's Media Player will reboot and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
 
 msgid "fields.controls.restart.name"
-msgstr "Restart Player"
+msgstr "Restart Rise Player"
 
 msgid "fields.controls.restart.success"
 msgstr "Restart signal sent"
@@ -287,10 +287,10 @@ msgid "fields.controls.restart.title"
 msgstr "Restarting Display"
 
 msgid "fields.controls.restart.warning"
-msgstr "The Rise Player on the Display's Computer will restart and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
+msgstr "The Rise Player on the Display's Media Player will restart and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
 
 msgid "fields.id"
-msgstr "Display Id:"
+msgstr "Display ID:"
 
 msgid "fields.monitor.name"
 msgstr "Monitor"
@@ -350,10 +350,10 @@ msgid "fields.player.orientation.name"
 msgstr "Rotation:"
 
 msgid "fields.player.playerVersion"
-msgstr "Player Version:"
+msgstr "Rise Player Version:"
 
 msgid "fields.player.playerWarning"
-msgstr "A Player has not been configured for your Display. To configure your Display, select your Operating System below and install the software <b>on the device</b> that will operate your Display. When the Player starts for the first time you will be prompted to enter the Display ID (above) to link the Player with the Display that you have setup here. Further setup details can be <a href="http://help.risevision.com/user/create-a-display/" target="_blank">found here</a>."
+msgstr "A Media Player has not been configured for your Display. To configure your Display, select your Operating System below and install Rise Player on the Media Player (a dedicated computer). When Rise Player starts for the first time you will be prompted to enter the Display ID (above) to link the Media Player with the Display that you have setup here. Further setup details can be <a href=\"http://help.risevision.com/user/create-a-display/\" target=\"_blank\">found here</a>."
 
 msgid "fields.player.resolution"
 msgstr "Resolution:"
