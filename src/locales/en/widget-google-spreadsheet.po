@@ -1,6 +1,12 @@
 msgid "format.evenRow"
 msgstr "Even Row Color"
 
+msgid "format.header.label"
+msgstr "Header Format"
+
+msgid "format.header.text"
+msgstr "Column Header Sample Text"
+
 msgid "format.heading"
 msgstr "Format"
 
