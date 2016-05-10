@@ -263,7 +263,7 @@ msgid "fields.controls.error"
 msgstr "Error:"
 
 msgid "fields.controls.howto"
-msgstr "How do I show Presentations and Web Pages on my Media Player?"
+msgstr "How do I show Presentations and Web Pages?"
 
 msgid "fields.controls.reboot.name"
 msgstr "Reboot Media Player"
