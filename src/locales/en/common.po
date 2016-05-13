@@ -148,6 +148,9 @@ msgstr "Save"
 msgid "saving"
 msgstr "Saving"
 
+msgid "saved"
+msgstr "Saved"
+
 msgid "select"
 msgstr "Select"
 
