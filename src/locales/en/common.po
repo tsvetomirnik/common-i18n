@@ -146,7 +146,7 @@ msgid "save"
 msgstr "Save"
 
 msgid "saving"
-msgstr "Saving"
+msgstr "Saving..."
 
 msgid "saved"
 msgstr "Saved"
