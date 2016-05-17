@@ -83,7 +83,7 @@ msgid "playlist.item.title"
 msgstr "Playlist Item"
 
 msgid "playlist.item.url"
-msgstr "URL"
+msgstr "Web Page"
 
 msgid "playlist.title"
 msgstr "Playlist"
