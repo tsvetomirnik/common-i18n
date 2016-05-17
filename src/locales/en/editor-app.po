@@ -97,8 +97,14 @@ msgstr "Status"
 msgid "list.no-results"
 msgstr "Your search didn't return any results"
 
+msgid "list.noPresentations"
+msgstr "No Presentations"
+
 msgid "list.title"
 msgstr "Presentations"
+
+msgid "list.viewAll"
+msgstr "View All Presentations"
 
 msgid "playlistItem.add"
 msgstr "Add Content"

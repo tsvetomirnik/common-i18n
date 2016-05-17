@@ -49,7 +49,9 @@
       "status": "Status"
     },
     "no-results": "Your search didn't return any results",
-    "title": "Presentations"
+    "noPresentations": "No Presentations",
+    "title": "Presentations",
+    "viewAll": "View All Presentations"
   },
   "playlistItem": {
     "add": "Add Content",
