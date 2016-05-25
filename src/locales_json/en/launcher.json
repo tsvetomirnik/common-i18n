@@ -3,5 +3,14 @@
   "dontHaveAccount": "I don't have a google account.",
   "haveAccount": "Have an Account?",
   "howToShow": "How do I show Presentations and Web Pages?",
-  "signUpGoogle": "Sign Up with Google"
+  "presentationCTA": {
+    "description": "Start with a Presentation and then Schedule it with your Display",
+    "title": "How simple is digital signage with Rise Vision?"
+  },
+  "signUpGoogle": "Sign Up with Google",
+  "supportBanner": {
+    "callToAction": "Get Priority Support",
+    "description": "Get 10 days of Priority Support for FREE!",
+    "title": "Need Help?"
+  }
 }
