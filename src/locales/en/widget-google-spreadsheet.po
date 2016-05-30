@@ -19,6 +19,9 @@ msgstr "Format"
 msgid "format.oddRow"
 msgstr "Odd Row Color"
 
+msgid "format.rowHeight"
+msgstr "Row Height"
+
 msgid "format.spreadsheet"
 msgstr "Spreadsheet Format"
 
