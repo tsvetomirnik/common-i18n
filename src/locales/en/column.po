@@ -56,7 +56,7 @@ msgid "numeric"
 msgstr "Numeric data column"
 
 msgid "select-title"
-msgstr "Select Columns To Format"
+msgstr "Per Column Format"
 
 msgid "sign.arrow"
 msgstr "Arrow"

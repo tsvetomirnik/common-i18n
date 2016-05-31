@@ -28,7 +28,7 @@
   "heading": "Columns",
   "note": "Note: Column formatting overrides Body Format options (above)",
   "numeric": "Numeric data column",
-  "select-title": "Select Columns To Format",
+  "select-title": "Per Column Format",
   "sign": {
     "arrow": "Arrow",
     "label": "Sign",
