@@ -154,6 +154,10 @@
         "warning": "The Rise Player on the Display's Computer will restart and the currently Scheduled Content will be interrupted. Do you wish to proceed?"
       }
     },
+    "email": {
+      "failed": "Failed to send e-mail",
+      "invalid": "Invalid e-mail address"
+    },
     "id": "Display Id:",
     "monitor": {
       "name": "Monitor",
