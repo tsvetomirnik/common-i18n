@@ -37,6 +37,12 @@ msgstr "Spreadsheet Format"
 msgid "settings"
 msgstr "Google Spreadsheet Settings"
 
+msgid "spreadsheet.apiKey"
+msgstr "API key"
+
+msgid "spreadsheet.apiKeyLinkDescription"
+msgstr "Setting up an API key"
+
 msgid "spreadsheet.cells.range"
 msgstr "Show Range"
 

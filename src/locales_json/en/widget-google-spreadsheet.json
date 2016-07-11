@@ -21,6 +21,8 @@
   },
   "settings": "Google Spreadsheet Settings",
   "spreadsheet": {
+    "apiKey": "API key",
+    "apiKeyLinkDescription": "Setting up an API key",
     "cells": {
       "range": "Show Range",
       "sheet": "Show Entire Sheet"
