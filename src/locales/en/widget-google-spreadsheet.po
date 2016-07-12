@@ -40,8 +40,11 @@ msgstr "Google Spreadsheet Settings"
 msgid "spreadsheet.apiKey"
 msgstr "API key"
 
-msgid "spreadsheet.apiKeyLinkDescription"
-msgstr "Setting up an API key"
+msgid "spreadsheet.apiKeyDescription"
+msgstr "The default refresh interval is 60 minutes. To use a different refresh interval you must provide an API Key. For more information on how to obtain an API Key, please review the article"
+
+msgid "spreadsheet.apiKeyDescriptionLink"
+msgstr "How to create an API Key for the Google Spreadsheet Widget."
 
 msgid "spreadsheet.cells.range"
 msgstr "Show Range"
@@ -81,6 +84,9 @@ msgstr "Starting Cell (Top Left)"
 
 msgid "spreadsheet.refresh"
 msgstr "Data Refresh Interval"
+
+msgid "spreadsheet.refreshInterval"
+msgstr "Refresh Interval"
 
 msgid "spreadsheet.retry"
 msgstr "Check Again"
