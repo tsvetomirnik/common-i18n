@@ -22,7 +22,8 @@
   "settings": "Google Spreadsheet Settings",
   "spreadsheet": {
     "apiKey": "API key",
-    "apiKeyLinkDescription": "Setting up an API key",
+    "apiKeyDescription": "The default refresh interval is 60 minutes. To use a different refresh interval you must provide an API Key. For more information on how to obtain an API Key, please review the article",
+    "apiKeyDescriptionLink": "How to create an API Key for the Google Spreadsheet Widget.",
     "cells": {
       "range": "Show Range",
       "sheet": "Show Entire Sheet"
@@ -44,6 +45,7 @@
       "start": "Starting Cell (Top Left)"
     },
     "refresh": "Data Refresh Interval",
+    "refreshInterval": "Refresh Interval",
     "retry": "Check Again",
     "sheet": "Select Worksheet"
   }
