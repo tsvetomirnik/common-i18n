@@ -64,6 +64,9 @@ msgstr "Enter Spreadsheet Key"
 msgid "spreadsheet.preview"
 msgstr "Open Spreadsheet"
 
+msgid "spreadsheet.public.message"
+msgstr "To use this Google Spreadsheet it must be publicly accessible. To do this, open the Google Spreadsheet and select <strong><em>File > Share > Advanced</em></strong>, then select <strong><em>On - Anyone with the link</em></strong>."
+
 msgid "spreadsheet.publish.text1"
 msgstr "To use this Google Spreadsheet it must be published to the web. To publish, open the Google Spreadsheet and select"
 

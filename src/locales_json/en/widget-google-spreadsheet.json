@@ -34,6 +34,9 @@
       "select": "Enter Spreadsheet Key"
     },
     "preview": "Open Spreadsheet",
+    "public": {
+      "message": "To use this Google Spreadsheet it must be publicly accessible. To do this, open the Google Spreadsheet and select <strong><em>File > Share > Advanced</em></strong>, then select <strong><em>On - Anyone with the link</em></strong>."
+    },
     "publish": {
       "text1": "To use this Google Spreadsheet it must be published to the web. To publish, open the Google Spreadsheet and select",
       "text2": "File > Publish to the web",
