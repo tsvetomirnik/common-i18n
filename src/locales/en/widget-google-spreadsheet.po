@@ -46,6 +46,9 @@ msgstr "The default refresh interval is 60 minutes. To use a different refresh i
 msgid "spreadsheet.apiKeyDescriptionLink"
 msgstr "How to create an API Key for the Google Spreadsheet Widget."
 
+msgid "spreadsheet.apiKeyNotValid"
+msgstr "The API Key provided is not valid."
+
 msgid "spreadsheet.cells.range"
 msgstr "Show Range"
 
