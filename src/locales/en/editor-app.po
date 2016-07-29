@@ -118,6 +118,9 @@ msgstr "Presentations"
 msgid "list.viewAll"
 msgstr "View All Presentations"
 
+msgid "playlistItem.add"
+msgstr "Add Widget"
+
 msgid "playlistItem.add-image"
 msgstr "Image"
 

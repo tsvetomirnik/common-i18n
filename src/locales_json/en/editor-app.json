@@ -60,6 +60,7 @@
     "viewAll": "View All Presentations"
   },
   "playlistItem": {
+    "add": "Add Widget",
     "add-image": "Image",
     "add-more": "More",
     "add-text": "Text",
