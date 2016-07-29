@@ -97,11 +97,29 @@ msgstr "Select one or more Files"
 msgid "select-multiple-files-folders"
 msgstr "Select Files and Folders"
 
+msgid "select-multiple-files-folders-images"
+msgstr "Select Images and/or Folders of Images"
+
+msgid "select-multiple-files-folders-videos"
+msgstr "Select Videos and/or Folders of Videos"
+
 msgid "select-single-file"
 msgstr "Select a File"
 
+msgid "select-single-file-images"
+msgstr "Select an Image"
+
+msgid "select-single-file-videos"
+msgstr "Select a Video"
+
 msgid "select-single-folder"
 msgstr "Select a Folder"
+
+msgid "select-single-folder-images"
+msgstr "Select a Folder of Images"
+
+msgid "select-single-folder-videos"
+msgstr "Select a Folder of Videos"
 
 msgid "selected-items"
 msgstr "{{count}} Selected"
