@@ -247,6 +247,9 @@ msgstr "Unsaved Changes"
 msgid "details.unsavedWarning"
 msgstr "You have unsaved changes. Do you want to Save or Discard them?"
 
+msgid "download.player"
+msgstr "Download Player"
+
 msgid "download.linux32"
 msgstr "Download Player for Ubuntu 14.04 LTS [32-bit]"
 
