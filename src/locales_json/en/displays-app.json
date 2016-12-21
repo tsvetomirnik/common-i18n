@@ -217,11 +217,21 @@
       "address": "Address",
       "lastConnection": "Last Connection",
       "name": "Name",
+      "schedule": "Schedule",
       "status": "Status"
     },
     "no-results": "Your search didn't return any results",
     "noDisplays": "No Displays",
+    "schedule": {
+      "add": "Add to Schedule"
+    },
     "searchNotification": "Search results may include Displays that belong to your sub-companies.",
+    "status": {
+      "error": "Error",
+      "install": "Install Player",
+      "offline": "Offline",
+      "online": "Online"
+    },
     "viewAll": "View All Displays"
   },
   "title": "Displays"
