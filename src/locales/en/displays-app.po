@@ -448,6 +448,9 @@ msgstr "Last Connection"
 msgid "list.heading.name"
 msgstr "Name"
 
+msgid "list.heading.schedule"
+msgstr "Schedule"
+
 msgid "list.heading.status"
 msgstr "Status"
 
@@ -463,6 +466,20 @@ msgstr "Search results may include Displays that belong to your sub-companies."
 msgid "list.viewAll"
 msgstr "View All Displays"
 
+msgid "list.schedule.add"
+msgstr "Add to Schedule"
+
+msgid "list.status.install"
+msgstr "Install Player"
+
+msgid "list.status.online"
+msgstr "Online"
+
+msgid "list.status.offline"
+msgstr "Offline"
+
+msgid "list.status.error"
+msgstr "Error"
+
 msgid "title"
 msgstr "Displays"
-
