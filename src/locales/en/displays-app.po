@@ -448,6 +448,48 @@ msgstr "Inactive"
 msgid "fields.status.name"
 msgstr "Status"
 
+msgid "fields.screenshot.title"
+msgstr "Display Screenshot"
+
+msgid "fields.screenshot.updateScreenshot"
+msgstr "Update"
+
+msgid "fields.screenshot.notAvailable"
+msgstr "Screenshot not available."
+
+msgid "fields.screenshot.notScheduled"
+msgstr "This Display is not scheduled."
+
+msgid "fields.screenshot.upgradeRequired"
+msgstr "Rise Player software must be upgraded."
+
+msgid "fields.screenshot.upgradePlayer"
+msgstr "Upgrade Rise Player"
+
+msgid "fields.screenshot.osNotSupported"
+msgstr "Media Player operating system not supported."
+
+msgid "fields.screenshot.learnSupportedOS1"
+msgstr "Learn more about supported"
+
+msgid "fields.screenshot.learnSupportedOS2"
+msgstr "operating systems."
+
+msgid "fields.screenshot.playerOffline"
+msgstr "This Display is Offline."
+
+msgid "fields.screenshot.playerNotInstalled"
+msgstr "Rise Player not installed."
+
+msgid "fields.screenshot.playerInstall"
+msgstr "Install Rise Player"
+
+msgid "fields.screenshot.missing1"
+msgstr "No Screenshot to show."
+
+msgid "fields.screenshot.missing2"
+msgstr "Click 'Update' above."
+
 msgid "landing.manageDisplaysText"
 msgstr "Manage and monitor your digital signage displays, anywhere, anytime."
 
